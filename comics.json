@@ -1,0 +1,4175 @@
+ [
+    {
+        "id" : "wolverine1",
+        "price" : "74.99",
+        "url" : "/",
+        "data-item-description" : "Wolverine - Wolverine's first ever solo series",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Wolverine 1.jpg",
+        "data-item-name" : "Wolverine 1",
+        "year" : "1988",
+        "issue" : "1",
+        "series" : "Wolverine",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "marvel",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Wolverine 1.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+    {
+        "id" : "silversurfer34",
+        "price" : "14.99",
+        "url" : "/",
+        "data-item-description" : "Silver Surfer ",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Silver Surfer 34.jpg",
+        "data-item-name" : "Silver Surfer 34",
+        "year" : "1990",
+        "issue" : "34",
+        "series" : "Silver Surfer",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "marvel",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Silver Surfer 34.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+ {
+        "id" : "infinityg1",
+        "price" : "24.99",
+        "url" : "/",
+        "data-item-description" : "Infinity Gauntlet ",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Infinity Gauntlet 1.jpg",
+        "data-item-name" : "Infinity Gauntlet 1",
+        "year" : "1991",
+        "issue" : "1",
+        "series" : "Infinity Gauntlet",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "marvel",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Infinity gauntlet 1.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+ {
+        "id" : "wolverine10",
+        "price" : "19.99",
+        "url" : "/",
+        "data-item-description" : "Wolverine - First Sabretooh Vs Wolverine battle",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Wolverine 10.jpg",
+        "data-item-name" : "Wolverine 10",
+        "year" : "1988",
+        "issue" : "10",
+        "series" : "Wolverine",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "marvel",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Wolverine 10.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+ {
+        "id" : "wolverine8",
+        "price" : "24.99",
+        "url" : "/",
+        "data-item-description" : "Wolverine - Classic cover art by John Buscema featuring Wolverine and the Hulk as his Joe Fixit persona",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Wolverine 8.jpg",
+        "data-item-name" : "Wolverine 8",
+        "year" : "1988",
+        "issue" : "8",
+        "series" : "Wolverine",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "marvel",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Wolverine 8.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+    {
+        "id" : "tombofdracula59",
+        "price" : "4.99",
+        "url" : "/",
+        "data-item-description" : "Tomb of Dracula",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Tomb of Dracula 59.jpg",
+        "data-item-name" : "Tomb of Dracula",
+        "year" : "1977",
+        "issue" : "59",
+        "series" : "Tomb of Dracula",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "Marvel",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Tomb of Dracula 59.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+    {
+        "id" : "starwars33",
+        "price" : "19.99",
+        "url" : "/",
+        "data-item-description" : "Star Wars Knights of the Old Republic - First cover appearance of Darth Haazen",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Star Wars Knights of the Old Republic 33.jpg",
+        "data-item-name" : "Star Wars Knights of the Old Republic 33",
+        "year" : "1988",
+        "issue" : "33",
+        "series" : "Star Wars Knights of the Old Republic",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "marvel",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Star Wars Knights of the Old Republic 33.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+    {
+        "id" : "starwars31",
+        "price" : "39.99",
+        "url" : "/",
+        "data-item-description" : "Star Wars Knights of the Old Republic - First appearance of Darth Malak",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Star Wars Knights of the Old Republic 31.jpg",
+        "data-item-name" : "Star Wars Knights of the Old Republic 31",
+        "year" : "1988",
+        "issue" : "31",
+        "series" : "Star Wars Knights of the Old Republic",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "marvel",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Star Wars Knights of the Old Republic 31.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+     {
+        "id" : "modernwarfare2ghost2",
+        "price" : "4.99",
+        "url" : "/",
+        "data-item-description" : "Modern Warfare 2 ghost",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Modern Warfare 2 ghost 2.jpg",
+        "data-item-name" : "Modern Warfare 2 ghost",
+        "year" : "2010",
+        "issue" : "1",
+        "series" : "Modern Warfare 2 ghost",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "Wildstorm",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Modern Warfare 2 ghost 2.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+     {
+        "id" : "modernwarfare2ghost1variant",
+        "price" : "14.99",
+        "url" : "/",
+        "data-item-description" : "Modern Warfare 2 ghost variant",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Modern Warfare 2 ghost 1 variant.jpg",
+        "data-item-name" : "Modern Warfare 2 ghost",
+        "year" : "2010",
+        "issue" : "1",
+        "series" : "Modern Warfare 2 ghost",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "Wildstorm",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Modern Warfare 2 ghost 1 variant.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+     {
+        "id" : "modernwarfare2ghost1",
+        "price" : "14.99",
+        "url" : "/",
+        "data-item-description" : "Modern Warfare 2 ghost",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Modern Warfare 2 ghost 1.jpg",
+        "data-item-name" : "Modern Warfare 2 ghost",
+        "year" : "2010",
+        "issue" : "1",
+        "series" : "Modern Warfare 2 ghost",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "Wildstorm",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Modern Warfare 2 ghost 1.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+     {
+        "id" : "uncannyxmen145",
+        "price" : "9.99",
+        "url" : "/",
+        "data-item-description" : "Uncanny Xmen - Classic Doctor Doom cover",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Xmen 145.jpg",
+        "data-item-name" : "Uncanny Xmen 145 17",
+        "year" : "1981",
+        "issue" : "145",
+        "series" : "Uncanny Xmen",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "marvel",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Xmen 145.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+     {
+        "id" : "fantasticfourannual23",
+        "price" : "3.99",
+        "url" : "/",
+        "data-item-description" : "Fantastic Four Annual - first appearance of the new Defenders",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Fantastic Four Annual 23.jpg",
+        "data-item-name" : "Fantastic Four Annual 23",
+        "year" : "1990",
+        "issue" : "23",
+        "series" : "Fantastic Four Annual",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "marvel",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Fantastic Four Annual 23.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+    {
+        "id" : "hulk308",
+        "price" : "1.99",
+        "url" : "/",
+        "data-item-description" : "Hulk",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Hulk 308.jpg",
+        "data-item-name" : "Hulk 308",
+        "year" : "1985",
+        "issue" : "308",
+        "series" : "Hulk",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "marvel",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Hulk 308.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+     {
+        "id" : "thor411",
+        "price" : "14.99",
+        "url" : "/",
+        "data-item-description" : "Thor - first appearance of the new Defenders",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Thor 411.jpg",
+        "data-item-name" : "Thor 411",
+        "year" : "1989",
+        "issue" : "411",
+        "series" : "Thor",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "marvel",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Thor 411.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+     {
+        "id" : "wolverine2",
+        "price" : "3.99",
+        "url" : "/",
+        "data-item-description" : "Wolverine",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Wolverine 2.jpg",
+        "data-item-name" : "Wolverine 2",
+        "year" : "1988",
+        "issue" : "2",
+        "series" : "Wolverine",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "marvel",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Wolverine 2.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+    {
+        "id" : "marvelcomicspresentswolverine",
+        "price" : "4.99",
+        "url" : "/",
+        "data-item-description" : "Marvel Comics Presents: Wolverine",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Marvel Comics Presents Wolverine.jpg",
+        "data-item-name" : "Marvel Comics Presents: Wolverine 267 17",
+        "year" : "1990",
+        "issue" : "50",
+        "series" : "Marvel Comics Presents: Wolverine",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "marvel",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Marvel Comics Present: Wolverine.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+    {
+        "id" : "uncannyxmen267",
+        "price" : "4.99",
+        "url" : "/",
+        "data-item-description" : "Uncanny Xmen - 2nd appearance of Gambit",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Xmen 267.jpg",
+        "data-item-name" : "Uncanny Xmen 267 17",
+        "year" : "1990",
+        "issue" : "267",
+        "series" : "Uncanny Xmen",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "marvel",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Xmen 267.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+     {
+        "id" : "wolverine60",
+        "price" : "3.99",
+        "url" : "/",
+        "data-item-description" : "Wolverine",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Wolverine 60.jpg",
+        "data-item-name" : "Wolverine 60",
+        "year" : "1988",
+        "issue" : "60",
+        "series" : "Wolverine",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "marvel",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Wolverine 60.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+     {
+        "id" : "marvelsuperheroes1992",
+        "price" : "8.99",
+        "url" : "/",
+        "data-item-description" : "Marvel Super Heroes",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Marvel Super Heroes.jpg",
+        "data-item-name" : "Marvel Super Heroes 50 17",
+        "year" : "1992",
+        "issue" : "Fall 80 page special",
+        "series" : "Marvel Super Heroes",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "marvel",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Marvel Super Heroes.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+     {
+        "id" : "silversurfer50",
+        "price" : "4.99",
+        "url" : "/",
+        "data-item-description" : "Silver Surfer - silver foil embossed over",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Silver Surfer 50.jpg",
+        "data-item-name" : "Silver Surfer 50",
+        "year" : "1991",
+        "issue" : "50",
+        "series" : "Silver Surfer",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "marvel",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Silver Surfer 50.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+    {
+        "id" : "wolverine17",
+        "price" : "9.99",
+        "url" : "/",
+        "data-item-description" : "Wolverine - Classic John Bryne cover",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Wolverine 17.jpg",
+        "data-item-name" : "Wolverine 17",
+        "year" : "1988",
+        "issue" : "17",
+        "series" : "Wolverine",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "marvel",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Wolverine 17.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+     {
+        "id" : "newmutants88",
+        "price" : "4.99",
+        "url" : "/",
+        "data-item-description" : "New Mutants",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - New Mutants 88.jpg",
+        "data-item-name" : "New Mutants",
+        "year" : "1991",
+        "issue" : "88",
+        "series" : "New Mutants",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "Marvel",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - New Mutants 88.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+     {
+        "id" : "tombofdracula10",
+        "price" : "19.99",
+        "url" : "/",
+        "data-item-description" : "Tomb of Dracula",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Tomb of Dracula 10 reprint.jpg",
+        "data-item-name" : "Tomb of Dracula",
+        "year" : "2005",
+        "issue" : "10 Reprint",
+        "series" : "Tomb of Dracula",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "Marvel",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Tomb of Dracula 10 reprint.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+      {
+        "id" : "johnnythunder",
+        "price" : "9.99",
+        "url" : "/",
+        "data-item-description" : "Johnny Thunder",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Johnny Thunder 1.jpg",
+        "data-item-name" : "Johnny Thunder",
+        "year" : "1973",
+        "issue" : "1",
+        "series" : "Johnny Thunder",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "DC",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Johnny Thunder 1.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+     {
+        "id" : "batlash1",
+        "price" : "14.99",
+        "url" : "/",
+        "data-item-description" : "Bat Lash",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Bat Lash 1.jpg",
+        "data-item-name" : "Bat Lash",
+        "year" : "1969",
+        "issue" : "1",
+        "series" : "Bat Lash",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "DC",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Bat Lash 1.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+    {
+        "id" : "secretsofhauntedhouse1",
+        "price" : "14.99",
+        "url" : "/",
+        "data-item-description" : "Secrets of Haunted House",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Secrets of Haunted House 1.jpg",
+        "data-item-name" : "Secrets of Haunted House",
+        "year" : "1975",
+        "issue" : "1",
+        "series" : "Secrets of Haunted House",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "DC",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Secrets of Haunted House 1.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+     {
+        "id" : "livingmummy15",
+        "price" : "2.99",
+        "url" : "/",
+        "data-item-description" : "The Living Mummy",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - The Living Mummy 15.jpg",
+        "data-item-name" : "The Living Mummy",
+        "year" : "1975",
+        "issue" : "15",
+        "series" : "The Living Mummy",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "Marvel",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - The Living Mummy 15.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+     {
+        "id" : "livingmummy15",
+        "price" : "2.99",
+        "url" : "/",
+        "data-item-description" : "The Living Mummy",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - The Living Mummy 13.jpg",
+        "data-item-name" : "The Living Mummy",
+        "year" : "1975",
+        "issue" : "13",
+        "series" : "The Living Mummy",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "Marvel",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - The Living Mummy 13.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+    {
+        "id" : "departmentoftruth3",
+        "price" : "19.99",
+        "url" : "/",
+        "data-item-description" : "Department Of Truth - 1:25 Henderson variant",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Department Of Truth 3.jpg",
+        "data-item-name" : "Department Of Truth",
+        "year" : "2020",
+        "issue" : "3",
+        "series" : "Department Of Truth",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "Image",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Department Of Truth 3.jpg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },
+     {
+            "id" : "livingvampirerun",
+            "price" : "49.99",
+            "url" : "/",
+            "data-item-description" : "Adventure into fear - The Living Vampire",
+            "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Adventure into fear - The Living Vampire.jpg",
+            "data-item-name" : "Adventure into fear - The Living Vampire",
+            "year" : "1975",
+            "issue" : "23, 26, 27, 28, 29, 30",
+            "series" : "Adventure into fear - The Living Vampire",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "marvel",
+            "extra" : "",
+            "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Adventure into fear - The Living Vampire.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "1000"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+     {
+            "id" : "wolverine50",
+            "price" : "8.99",
+            "url" : "/",
+            "data-item-description" : "Wolverine",
+            "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Wolverine 50.jpg",
+            "data-item-name" : "Wolverine 50",
+            "year" : "1988",
+            "issue" : "50",
+            "series" : "Wolverine",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "marvel",
+            "extra" : "",
+            "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Wolverine 50.jpg",
+            "run" : "",
+            "dimensions" : {
+                "weight" : "100"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+     {
+            "id" : "capnbuck334",
+            "price" : "8.99",
+            "url" : "/",
+            "data-item-description" : "Captain America",
+            "data-item-image" : "/thumbnails/Fantasy Road preowned comic book - pressing and cleaning service at fantasy road - captain america 334.jpg",
+            "data-item-name" : "Captain Amrerica",
+            "year" : "1987",
+            "issue" : "334",
+            "series" : "captain america",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "marvel",
+            "extra" : "",
+            "enlarge" : "/img/Fantasy Road preowned comic book - pressing and cleaning service at fantasy road - captain america 334",
+            "run" : "",
+            "dimensions" : {
+                "weight" : "100"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "lobsterget",
+            "price" : "14.99",
+            "url" : "/",
+            "data-item-description" : "Lobster Johnson Get the Lobster full run",
+            "data-item-image" : "/thumbnails/Lobster Johnson Get the Lobster.jpg",
+            "data-item-name" : "Lobster Johnson",
+            "year" : "2014",
+            "issue" : "1-5",
+            "series" : "Lobster Johnson",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/Lobster Johnson Get the Lobster.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "450"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "lobstermantis",
+            "price" : "4.99",
+            "url" : "/",
+            "data-item-description" : "Lobster Johnson The Glass Mantis",
+            "data-item-image" : "/thumbnails/Lobster Johnson The Glass Mantis.jpg",
+            "data-item-name" : "Lobster Johnson",
+            "year" : "2012",
+            "issue" : "Oneshot",
+            "series" : "Lobster Johnson",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/Lobster Johnson The Glass Mantis.jpg",
+            "run" : "",
+            "dimensions" : {
+                "weight" : "100"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "lobsterchain",
+            "price" : "4.99",
+            "url" : "/",
+            "data-item-description" : "Lobster Johnson A chain forged in life",
+            "data-item-image" : "/thumbnails/Lobster Johnson A chain forged in life.jpg",
+            "data-item-name" : "Lobster Johnson",
+            "year" : "2015",
+            "issue" : "Oneshot",
+            "series" : "Lobster Johnson",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/Lobster Johnson A chain forged in life.jpg",
+            "run" : "",
+            "dimensions" : {
+                "weight" : "100"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "lobsterprayer",
+            "price" : "1.99",
+            "url" : "/",
+            "data-item-description" : "Lobster Johnson The Prayer of Neferu",
+            "data-item-image" : "/thumbnails/The Prayer of Neferu.jpg",
+            "data-item-name" : "Lobster Johnson",
+            "year" : "2012",
+            "issue" : "Oneshot",
+            "series" : "Lobster Johnson",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/The Prayer of Neferu.jpg",
+            "run" : "",
+            "dimensions" : {
+                "weight" : "100"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "lobstermortuum",
+            "price" : "2.99",
+            "url" : "/",
+            "data-item-description" : "Lobster Johnson Caput Mortuum full run",
+            "data-item-image" : "/thumbnails/Lobster Johnson Caput Mortuum.jpg",
+            "data-item-name" : "Lobster Johnson",
+            "year" : "2012",
+            "issue" : "Oneshot",
+            "series" : "Lobster Johnson",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/Lobster Johnson Caput Mortuum.jpg",
+            "run" : "",
+            "dimensions" : {
+                "weight" : "100"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "lobsterlotus",
+            "price" : "4.99",
+            "url" : "/",
+            "data-item-description" : "Lobster Johnson A Scent of Lotus full run (First appearance of Crimson Lotus)",
+            "data-item-image" : "/thumbnails/A Scent of Lotus.jpg",
+            "data-item-name" : "Lobster Johnson",
+            "year" : "2013",
+            "issue" : "1-2",
+            "series" : "Lobster Johnson",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/A Scent of Lotus.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "250"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "lobsterhand",
+            "price" : "17.99",
+            "url" : "/",
+            "data-item-description" : "Lobster Johnson The burning hand full run",
+            "data-item-image" : "/thumbnails/Lobster Johnson The burning hand.jpg",
+            "data-item-name" : "Lobster Johnson",
+            "year" : "2012",
+            "issue" : "1-5",
+            "series" : "Lobster Johnson",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/Lobster Johnson The burning hand.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "450"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "lobsteriron",
+            "price" : "12.99",
+            "url" : "/",
+            "data-item-description" : "Lobster Johnson The Iron Prometheus full run",
+            "data-item-image" : "/thumbnails/Lobster Johnson The Iron Prometheus.jpg",
+            "data-item-name" : "Lobster Johnson",
+            "year" : "2008",
+            "issue" : "1-5",
+            "series" : "Lobster Johnson",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/Lobster Johnson The Iron Prometheus.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "450"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "hellboyinhell",
+            "price" : "29.99",
+            "url" : "/",
+            "data-item-description" : "Hellboy In Hell full run",
+            "data-item-image" : "/thumbnails/Hellboy In Hell.jpg",
+            "data-item-name" : "Hellboy",
+            "year" : "2012",
+            "issue" : "1-6",
+            "series" : "Hellboy",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/Hellboy In Hell.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "550"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "hellboybeasts",
+            "price" : "9.99",
+            "url" : "/",
+            "data-item-description" : "Hellboy Beasts of Burden ",
+            "data-item-image" : "/thumbnails/Hellboy Beasts of Burden.jpg",
+            "data-item-name" : "Hellboy",
+            "year" : "2010",
+            "issue" : "Oneshot",
+            "series" : "Hellboy",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/Hellboy Beasts of Burden.jpg",
+            "run" : "",
+            "dimensions" : {
+                "weight" : "100"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "hellboyinmexico",
+            "price" : "7.99",
+            "url" : "/",
+            "data-item-description" : "Hellboy In Mexico ",
+            "data-item-image" : "/thumbnails/Hellboy In Mexico.jpg",
+            "data-item-name" : "Hellboy",
+            "year" : "2010",
+            "issue" : "Oneshot",
+            "series" : "Hellboy",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/Hellboy In Mexico.jpg",
+            "run" : "",
+            "dimensions" : {
+                "weight" : "100"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "hellboythirdwish",
+            "price" : "6.99",
+            "url" : "/",
+            "data-item-description" : "Hellboy The Third Wish full run",
+            "data-item-image" : "/thumbnails/Hellboy The Third Wish.jpg",
+            "data-item-name" : "Hellboy",
+            "year" : "2002",
+            "issue" : "1-2",
+            "series" : "Hellboy",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/Hellboy The Third Wish.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "200"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "hellboysleeping",
+            "price" : "7.99",
+            "url" : "/",
+            "data-item-description" : "Hellboy The sleeping and the dead",
+            "data-item-image" : "/thumbnails/Hellboy The sleeping and the dead.jpg",
+            "data-item-name" : "Hellboy",
+            "year" : "2011",
+            "issue" : "1-2",
+            "series" : "Hellboy",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/Hellboy The sleeping and the dead.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "200"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "hellbox",
+            "price" : "24.99",
+            "url" : "/",
+            "data-item-description" : "Hellboy Box Full of Evil full run (First Lobster johnson appearance)",
+            "data-item-image" : "/thumbnails/Hellboy Box Full of Evil.jpg",
+            "data-item-name" : "Hellboy",
+            "year" : "1999",
+            "issue" : "1-2",
+            "series" : "Hellboy",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/Hellboy Box Full of Evil.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "200"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "hellboybeinghuman",
+            "price" : "9.99",
+            "url" : "/",
+            "data-item-description" : "Hellboy Being Human ",
+            "data-item-image" : "/thumbnails/Hellboy Being Human.jpg",
+            "data-item-name" : "Hellboy",
+            "year" : "2011",
+            "issue" : "Oneshot",
+            "series" : "Hellboy",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/Hellboy Being Human.jpg",
+            "run" : "",
+            "dimensions" : {
+                "weight" : "100"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "hellboybuster",
+            "price" : "7.99",
+            "url" : "/",
+            "data-item-description" : "Hellboy Buster Oakley gets his wish ",
+            "data-item-image" : "/thumbnails/Hellboy Buster Oakley gets his wish.jpg",
+            "data-item-name" : "Hellboy",
+            "year" : "2011",
+            "issue" : "Oneshot",
+            "series" : "Hellboy",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/Hellboy Buster Oakley gets his wish.jpg",
+            "run" : "",
+            "dimensions" : {
+                "weight" : "100"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "hellboymole",
+            "price" : "2.99",
+            "url" : "/",
+            "data-item-description" : "Hellboy The Mole (Hellboy day)",
+            "data-item-image" : "/thumbnails/Hellboy The Mole.jpg",
+            "data-item-name" : "Hellboy",
+            "year" : "2008",
+            "issue" : "Oneshot",
+            "series" : "Hellboy",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/Hellboy The Mole.jpg",
+            "run" : "",
+            "dimensions" : {
+                "weight" : "100"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "hellboychapel",
+            "price" : "4.99",
+            "url" : "/",
+            "data-item-description" : "Hellboy In the Chapel of Moloch",
+            "data-item-image" : "/thumbnails/Hellboy In the Chapel of Moloch.jpg",
+            "data-item-name" : "Hellboy",
+            "year" : "2008",
+            "issue" : "Oneshot",
+            "series" : "Hellboy",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/Hellboy In the Chapel of Moloch.jpg",
+            "run" : "",
+            "dimensions" : {
+                "weight" : "100"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "hellboydouble",
+            "price" : "4.99",
+            "url" : "/",
+            "data-item-description" : "Hellboy Double Feature of Evil",
+            "data-item-image" : "/thumbnails/Hellboy Double Feature of Evil.jpg",
+            "data-item-name" : "Hellboy",
+            "year" : "2010",
+            "issue" : "Oneshot",
+            "series" : "Hellboy",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/Hellboy Double Feature of Evil.jpg",
+            "run" : "",
+            "dimensions" : {
+                "weight" : "100"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "hellboybrideofhell",
+            "price" : "4.99",
+            "url" : "/",
+            "data-item-description" : "Hellboy Bride of Hell",
+            "data-item-image" : "/thumbnails/Hellboy Bride of Hell.jpg",
+            "data-item-name" : "Hellboy",
+            "year" : "2009",
+            "issue" : "Oneshot",
+            "series" : "Hellboy",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/Hellboy Bride of Hell.jpg",
+            "run" : "",
+            "dimensions" : {
+                "weight" : "100"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "hellboyweirdtales",
+            "price" : "29.99",
+            "url" : "/",
+            "data-item-description" : "Hellboy Weird Tales full run",
+            "data-item-image" : "/thumbnails/Hellboy Wierd Tales.jpg",
+            "data-item-name" : "Hellboy",
+            "year" : "2003",
+            "issue" : "1 - 8",
+            "series" : "Hellboy",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/Hellboy Wierd Tales.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "750"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "hellboywinter",
+            "price" : "12.99",
+            "url" : "/",
+            "data-item-description" : "Hellboy Winter Special",
+            "data-item-image" : "/thumbnails/Hellboy Winter Special.jpg",
+            "data-item-name" : "Hellboy",
+            "year" : "2016",
+            "issue" : "Oneshot special",
+            "series" : "Hellboy",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/Hellboy Winter Special.jpg",
+            "run" : "",
+            "dimensions" : {
+                "weight" : "100"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "hellboythewildhunt",
+            "price" : "44.99",
+            "url" : "/",
+            "data-item-description" : "Hellboy The Wild Hunt full run (First cameo and full appearance of Nimue, the Queen of blood)",
+            "data-item-image" : "/thumbnails/The Wild Hunt.jpg",
+            "data-item-name" : "Hellboy",
+            "year" : "2008",
+            "issue" : "1 - 8",
+            "series" : "Hellboy",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/The Wild Hunt.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "750"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "hellboythecrookedman",
+            "price" : "17.99",
+            "url" : "/",
+            "data-item-description" : "Hellboy The Crooked Man full run",
+            "data-item-image" : "/thumbnails/Hellboy The Crooked Man.jpg",
+            "data-item-name" : "Hellboy",
+            "year" : "2008",
+            "issue" : "1 - 3",
+            "series" : "Hellboy",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/Hellboy The Crooked Man.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "300"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "hellboyfury",
+            "price" : "17.99",
+            "url" : "/",
+            "data-item-description" : "Hellboy The Fury full run (Death of Hellboy key)",
+            "data-item-image" : "/thumbnails/Hellboy The Fury.jpg",
+            "data-item-name" : "Hellboy",
+            "year" : "2010",
+            "issue" : "1 - 3",
+            "series" : "Hellboy",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/Hellboy The Fury.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "300"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "hellboystorm",
+            "price" : "9.99",
+            "url" : "/",
+            "data-item-description" : "Hellboy The Storm full run",
+            "data-item-image" : "/thumbnails/Hellboy The Storm.jpg",
+            "data-item-name" : "Hellboy",
+            "year" : "2010",
+            "issue" : "1 - 3",
+            "series" : "Hellboy",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/Hellboy The Storm.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "300"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "hellboybprdhand",
+            "price" : "3.99",
+            "url" : "/",
+            "data-item-description" : "Hellboy and the B.P.R.D 1953 The Phantom Hand",
+            "data-item-image" : "/thumbnails/Hellboy and the bprd 1953 The Phantom Hand.jpg",
+            "data-item-name" : "Hellboy and the B.P.R.D",
+            "year" : "2014",
+            "issue" : "Oneshot",
+            "series" : "Hellboy and the B.P.R.D",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/Hellboy and the bprd 1953 The Phantom Hand.jpg",
+            "run" : "",
+            "dimensions" : {
+                "weight" : "100"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "hellboybprdwitch",
+            "price" : "3.99",
+            "url" : "/",
+            "data-item-description" : "Hellboy and the B.P.R.D 1953 The Witch Tree full run",
+            "data-item-image" : "/thumbnails/Hellboy and the bprd 1953 The Witch Tree.jpg",
+            "data-item-name" : "Hellboy and the B.P.R.D",
+            "year" : "2014",
+            "issue" : "Oneshot",
+            "series" : "Hellboy and the B.P.R.D",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/Hellboy and the bprd 1953 The Witch Tree.jpg",
+            "run" : "",
+            "dimensions" : {
+                "weight" : "100"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "hellboybprd",
+            "price" : "19.99",
+            "url" : "/",
+            "data-item-description" : "Hellboy and the B.P.R.D 1952 full run",
+            "data-item-image" : "/thumbnails/Hellboy and the bprd 1952.jpg",
+            "data-item-name" : "Hellboy and the B.P.R.D",
+            "year" : "2014",
+            "issue" : "1 - 5",
+            "series" : "Hellboy and the B.P.R.D",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/Hellboy and the bprd 1952.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "500"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "bprdwar on frogs",
+            "price" : "9.99",
+            "url" : "/",
+            "data-item-description" : "B.P.R.D War on Frogs full run",
+            "data-item-image" : "/thumbnails/bprd War on Frogs.jpg",
+            "data-item-name" : "B.P.R.D",
+            "year" : "2008",
+            "issue" : "1 - 5",
+            "series" : "B.P.R.D",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/bprd War on Frogs.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "500"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "bprdvampire",
+            "price" : "9.99",
+            "url" : "/",
+            "data-item-description" : "B.P.R.D Vampire full run",
+            "data-item-image" : "/thumbnails/bprd Vampire.jpg",
+            "data-item-name" : "B.P.R.D",
+            "year" : "2008",
+            "issue" : "1 - 5",
+            "series" : "B.P.R.D",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/bprd Vampire.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "500"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "bprdtheswarning",
+            "price" : "9.99",
+            "url" : "/",
+            "data-item-description" : "B.P.R.D The Warning full run",
+            "data-item-image" : "/thumbnails/bprd The Warning.jpg",
+            "data-item-name" : "B.P.R.D",
+            "year" : "2008",
+            "issue" : "1 - 5",
+            "series" : "B.P.R.D",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/bprd The Warning.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "500"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "bprdthesoulofvenice",
+            "price" : "3.99",
+            "url" : "/",
+            "data-item-description" : "B.P.R.D The Soul Of Venice full run",
+            "data-item-image" : "/thumbnails/bprd The Soul Of Venice.jpg",
+            "data-item-name" : "B.P.R.D",
+            "year" : "2004",
+            "issue" : "1 - 3",
+            "series" : "B.P.R.D",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/bprd The Soul Of Venice.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "300"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "bprdthedead",
+            "price" : "7.99",
+            "url" : "/",
+            "data-item-description" : "B.P.R.D The Dead Remembered full run",
+            "data-item-image" : "/thumbnails/bprd The Dead Remembered.jpg",
+            "data-item-name" : "B.P.R.D",
+            "year" : "2004",
+            "issue" : "1 - 3",
+            "series" : "B.P.R.D",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/bprd The Dead Remembered.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "300"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "bprdnblackgoddess",
+            "price" : "9.99",
+            "url" : "/",
+            "data-item-description" : "B.P.R.D Black Goddess full run",
+            "data-item-image" : "/thumbnails/bprd Black Gddess.jpg",
+            "data-item-name" : "B.P.R.D",
+            "year" : "2009",
+            "issue" : "1 - 5",
+            "series" : "B.P.R.D",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/bprd Black Gddess.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "500"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "bprdnighttrain",
+            "price" : "9.99",
+            "url" : "/",
+            "data-item-description" : "B.P.R.D Night Train full run",
+            "data-item-image" : "/thumbnails/bprd Night Train.jpg",
+            "data-item-name" : "B.P.R.D",
+            "year" : "2004",
+            "issue" : "1 - 5",
+            "series" : "B.P.R.D",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/bprd Night Train.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "500"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "bprdkingoffear",
+            "price" : "14.99",
+            "url" : "/",
+            "data-item-description" : "B.P.R.D King of Fear full run",
+            "data-item-image" : "/thumbnails/bprd King of Fear.jpg",
+            "data-item-name" : "B.P.R.D",
+            "year" : "2010",
+            "issue" : "1 - 5",
+            "series" : "B.P.R.D",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/bprd King of Fear.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "500"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "bprdkillingground",
+            "price" : "9.99",
+            "url" : "/",
+            "data-item-description" : "B.P.R.D Killing ground full run",
+            "data-item-image" : "/thumbnails/bprd Killing ground.jpg",
+            "data-item-name" : "B.P.R.D",
+            "year" : "2007",
+            "issue" : "1 - 5",
+            "series" : "B.P.R.D",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/bprd Killing ground.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "500"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "bprdexorcism",
+            "price" : "4.99",
+            "url" : "/",
+            "data-item-description" : "B.P.R.D Exorcism full run",
+            "data-item-image" : "/thumbnails/bprd Exorcism.jpg",
+            "data-item-name" : "B.P.R.D",
+            "year" : "2010",
+            "issue" : "1 - 2",
+            "series" : "B.P.R.D",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/bprd Exorcism.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "500"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "bprdnewworld",
+            "price" : "9.99",
+            "url" : "/",
+            "data-item-description" : "B.P.R.D New World full run",
+            "data-item-image" : "/thumbnails/bprd New World.jpg",
+            "data-item-name" : "B.P.R.D",
+            "year" : "2010",
+            "issue" : "1 - 5",
+            "series" : "B.P.R.D",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/bprd New World.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "500"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "bprdrussia",
+            "price" : "9.99",
+            "url" : "/",
+            "data-item-description" : "B.P.R.D Russia full run",
+            "data-item-image" : "/thumbnails/bprd Russia.jpg",
+            "data-item-name" : "B.P.R.D",
+            "year" : "2013",
+            "issue" : "1 - 5",
+            "series" : "B.P.R.D",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/bprd Russia.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "500"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "bprdpickens",
+            "price" : "5.99",
+            "url" : "/",
+            "data-item-description" : "B.P.R.D The Pickens County Horror full run",
+            "data-item-image" : "/thumbnails/bprd The Pickens County Horror.jpg",
+            "data-item-name" : "B.P.R.D",
+            "year" : "2012",
+            "issue" : "1 - 2",
+            "series" : "B.P.R.D",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/bprd The Pickens County Horror.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "300"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "bprdgods",
+            "price" : "5.99",
+            "url" : "/",
+            "data-item-description" : "B.P.R.D Gods full run",
+            "data-item-image" : "/thumbnails/bprd Gods.jpg",
+            "data-item-name" : "B.P.R.D",
+            "year" : "2012",
+            "issue" : "1 - 3",
+            "series" : "B.P.R.D",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/bprd Gods.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "300"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "bprdmonsters",
+            "price" : "5.99",
+            "url" : "/",
+            "data-item-description" : "B.P.R.D Monsters full run",
+            "data-item-image" : "/thumbnails/bprd monsters.jpg",
+            "data-item-name" : "B.P.R.D",
+            "year" : "2012",
+            "issue" : "1 - 2",
+            "series" : "B.P.R.D",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/bprd monsters.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "200"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "bprdtransformation",
+            "price" : "9.99",
+            "url" : "/",
+            "data-item-description" : "B.P.R.D The Transformation of J H O'Donnell",
+            "data-item-image" : "/thumbnails/bprd transformation.jpg",
+            "data-item-name" : "B.P.R.D",
+            "year" : "2012",
+            "issue" : "Oneshot",
+            "series" : "B.P.R.D",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/bprd transformation.jpg",
+            "run" : "",
+            "dimensions" : {
+                "weight" : "100"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "bprdthelongdeath",
+            "price" : "9.99",
+            "url" : "/",
+            "data-item-description" : "B.P.R.D The Long Death full run",
+            "data-item-image" : "/thumbnails/bprd the long death.jpg",
+            "data-item-name" : "B.P.R.D",
+            "year" : "2012",
+            "issue" : "1 - 3",
+            "series" : "B.P.R.D",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/bprd the long death.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "300"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "bprdthedevilsengine",
+            "price" : "5.99",
+            "url" : "/",
+            "data-item-description" : "B.P.R.D the devils engine full run",
+            "data-item-image" : "/thumbnails/bprd the devils engine.jpg",
+            "data-item-name" : "B.P.R.D",
+            "year" : "2012",
+            "issue" : "1 - 3",
+            "series" : "B.P.R.D",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/bprd the devils engine.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "300"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "bprdhellreturn",
+            "price" : "9.99",
+            "url" : "/",
+            "data-item-description" : "B.P.R.D Return of the Master full run",
+            "data-item-image" : "/thumbnails/return of the master.jpg",
+            "data-item-name" : "B.P.R.D",
+            "year" : "2012",
+            "issue" : "1 - 5",
+            "series" : "B.P.R.D",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/return of the master.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "500"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "bprdhellonearth",
+            "price" : "44.99",
+            "url" : "/",
+            "data-item-description" : "B.P.R.D Hell on Earth 29 book run",
+            "data-item-image" : "/thumbnails/bprd hell on earth.jpg",
+            "data-item-name" : "B.P.R.D",
+            "year" : "2013",
+            "issue" : "103 - 104, 107 - 133",
+            "series" : "B.P.R.D",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/bprd hell on earth.jpg",
+            "run" : "",
+            "dimensions" : {
+                "weight" : "2010"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "bprd1948",
+            "price" : "8.99",
+            "url" : "/",
+            "data-item-description" : "B.P.R.D 1948 full run",
+            "data-item-image" : "/thumbnails/bprd 1948.jpg",
+            "data-item-name" : "B.P.R.D",
+            "year" : "2009",
+            "issue" : "1 - 5",
+            "series" : "B.P.R.D",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/bprd 1948.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "500"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "bprd1947",
+            "price" : "12.99",
+            "url" : "/",
+            "data-item-description" : "B.P.R.D 1947 full run",
+            "data-item-image" : "/thumbnails/bprd 1947.jpg",
+            "data-item-name" : "B.P.R.D",
+            "year" : "2009",
+            "issue" : "1 - 5",
+            "series" : "B.P.R.D",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/bprd 1947.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "500"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "bprd1946",
+            "price" : "14.99",
+            "url" : "/",
+            "data-item-description" : "B.P.R.D 1946 full run",
+            "data-item-image" : "/thumbnails/bprd 1946.jpg",
+            "data-item-name" : "B.P.R.D",
+            "year" : "2008",
+            "issue" : "1 - 5",
+            "series" : "B.P.R.D",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/bprd 1946.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "500"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "abesapienabysallplain",
+            "price" : "4.99",
+            "url" : "/",
+            "data-item-description" : "Abe Sapien - The Abysall Plain",
+            "data-item-image" : "/thumbnails/abe sapien abysall plain.jpg",
+            "data-item-name" : "Abe Sapien",
+            "year" : "2010",
+            "issue" : "1 - 2",
+            "series" : "Abe Sapien",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/abe sapien abysall plain.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "200"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "abesapienhaunted",
+            "price" : "1.99",
+            "url" : "/",
+            "data-item-description" : "Abe Sapien - The Haunted Boy",
+            "data-item-image" : "/thumbnails/abe spaien the haunted boy.jpg",
+            "data-item-name" : "Abe Sapien",
+            "year" : "2009",
+            "issue" : "Oneshot",
+            "series" : "Abe Sapien",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/abe spaien the haunted boy.jpg",
+            "run" : "",
+            "dimensions" : {
+                "weight" : "100"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "abesapiendrowned",
+            "price" : "9.99",
+            "url" : "/",
+            "data-item-description" : "Abe Sapien - The Drowning full run",
+            "data-item-image" : "/thumbnails/Abe Sapien The Drowned.jpg",
+            "data-item-name" : "Abe Sapien",
+            "year" : "2008",
+            "issue" : "1 - 5",
+            "series" : "Abe Sapien",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/Abe Sapien The Drowned.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "500"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "abesapiendevil",
+            "price" : "9.99",
+            "url" : "/",
+            "data-item-description" : "Abe Sapien The Devil does not jest run",
+            "data-item-image" : "/thumbnails/Abe Sapien the devil does not jest.jpg",
+            "data-item-name" : "Abe Sapien",
+            "year" : "2011",
+            "issue" : "1 - 2",
+            "series" : "Abe Sapien",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Dark Horse",
+            "extra" : "",
+            "enlarge" : "/img/Abe Sapien the devil does not jest.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "200"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+             "id" : "abesapien",
+             "price" : "9.99",
+             "url" : "/",
+             "data-item-description" : "Abe Sapien run *MISSING 2 - 3*",
+             "data-item-image" : "/thumbnails/Abe sapien.jpg",
+             "data-item-name" : "Abe Sapien",
+             "year" : "2013",
+             "issue" : "1, 4 - 12",
+             "series" : "Abe Sapien",
+             "type" : "",
+             "label" : "",
+             "sale-price" : "",
+             "publisher" : "Dark Horse",
+             "extra" : "",
+             "enlarge" : "/img/Abe sapien.jpg",
+             "run" : "yes",
+             "dimensions" : {
+                "weight" : "800"
+             }
+,
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+            },
+        {
+            "id" : "daredevilvol13",
+            "price" : "9.99",
+            "url" : "/",
+            "data-item-description" : "Daredevil TPB volume 13",
+            "data-item-image" : "/thumbnails/Daredevil tpb 13.jpg",
+            "data-item-name" : "Daredevil",
+            "year" : "2014",
+            "issue" : "TPB",
+            "series" : "Daredevil",
+            "type" : "TPB",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Marvel",
+            "extra" : "",
+            "enlarge" : "/img/Daredevil tpb 13.jpg",
+            "run" : "",
+            "dimensions" : {
+                "weight" : "400"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "daredevilvol10",
+            "price" : "9.99",
+            "url" : "/",
+            "data-item-description" : "Daredevil TPB volume 10",
+            "data-item-image" : "/thumbnails/Daredevl vol.10.jpg",
+            "data-item-name" : "Daredevil",
+            "year" : "2014",
+            "issue" : "TPB",
+            "series" : "Daredevil",
+            "type" : "TPB",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Marvel",
+            "extra" : "",
+            "enlarge" : "/img/Daredevl vol.10.jpg",
+            "run" : "",
+            "dimensions" : {
+                "weight" : "400"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "starrtheslayer",
+            "price" : "3.99",
+            "url" : "/",
+            "data-item-description" : "Starr the Slayer",
+            "data-item-image" : "/thumbnails/Star The Slayer.jpg",
+            "data-item-name" : "Starr the Slayer",
+            "year" : "2014",
+            "issue" : "1 - 4",
+            "series" : "Starr the Slayer",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Marvel",
+            "extra" : "",
+            "enlarge" : "/img/Star the Slayer.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "400"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "strange",
+            "price" : "5.99",
+            "url" : "/",
+            "data-item-description" : "Strange",
+            "data-item-image" : "/thumbnails/Strange.jpg  ",
+            "data-item-name" : "Strange",
+            "year" : "2010",
+            "issue" : "1 - 4",
+            "series" : "Strange",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Marvel",
+            "extra" : "",
+            "enlarge" : "/img/Strange.jpg",
+            "run" : "yes",
+            "dimensions" : {
+                "weight" : "400"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "starlordworlds",
+            "price" : "2.99",
+            "url" : "/",
+            "data-item-description" : "Star Lord Worlds on the Brink",
+            "data-item-image" : "/thumbnails/star-lord worlds on the brink.jpg",
+            "data-item-name" : "Star Lord",
+            "year" : "2014",
+            "issue" : "Worlds on the Brink",
+            "series" : "Star Lord",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Marvel",
+            "extra" : "",
+            "enlarge" : "/img/star-lord worlds on the brink.jpg",
+            "run" : "",
+            "dimensions" : {
+                "weight" : "100"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+            "id" : "starlordtears",
+            "price" : "2.99",
+            "url" : "/",
+            "data-item-description" : "Star Lord Tears for Heaven",
+            "data-item-image" : "/thumbnails/Star Lord tears for Heaven.jpg  ",
+            "data-item-name" : "Star Lord",
+            "year" : "2014",
+            "issue" : "Tears for Heaven",
+            "series" : "Star Lord",
+            "type" : "",
+            "label" : "",
+            "sale-price" : "",
+            "publisher" : "Marvel",
+            "extra" : "",
+            "enlarge" : "/img/Star Lord tears for Heaven.jpg",
+            "run" : "",
+            "dimensions" : {
+                "weight" : "100"
+            },
+            "stock" : 1,
+            "allowOutOfStockPurchases" : false
+        },
+        {
+                "id" : "spidermanultimatefallout3",
+                "price" : "34.99",
+                "url" : "/",
+                "data-item-description" : "Spiderman Ultimate Fallout - First Miles Morales preview",
+                "data-item-image" : "/thumbnails/Ultimate Fallout 3.jpg  ",
+                "data-item-name" : "Spiderman Ultimate Fallout",
+                "year" : "2011",
+                "issue" : "1",
+                "series" : "Spiderman Ultimate Fallout",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/Ultimate Fallout 3.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "spidermanultimatefallout2",
+                "price" : "14.99",
+                "url" : "/",
+                "data-item-description" : "Spiderman Ultimate Fallout",
+                "data-item-image" : "/thumbnails/Ultimate Fallout 2.jpg  ",
+                "data-item-name" : "Spiderman Ultimate Fallout",
+                "year" : "2011",
+                "issue" : "2",
+                "series" : "Spiderman Ultimate Fallout",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/Ultimate Fallout 2.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "spidermanultimatefallout1",
+                "price" : "14.99",
+                "url" : "/",
+                "data-item-description" : "Spiderman Ultimate Fallout",
+                "data-item-image" : "/thumbnails/Ultimate Fallout 1.jpg  ",
+                "data-item-name" : "Spiderman Ultimate Fallout",
+                "year" : "2011",
+                "issue" : "1",
+                "series" : "Spiderman Ultimate Fallout",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/Ultimate Fallout 1.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "thor11",
+                "price" : "1.99",
+                "url" : "/",
+                "data-item-description" : "Thor",
+                "data-item-image" : "/thumbnails/thor 11.jpg  ",
+                "data-item-name" : "Thor",
+                "year" : "2016",
+                "issue" : "11",
+                "series" : "Thor",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/thor 11.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "thanosannual1",
+                "price" : "2.99",
+                "url" : "/",
+                "data-item-description" : "Thanos Annual",
+                "data-item-image" : "/thumbnails/thanos annual 1.jpg  ",
+                "data-item-name" : "Thanos Annual",
+                "year" : "2013",
+                "issue" : "5",
+                "series" : "Thanos Annual",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/thanos annual 1.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "thanosrising",
+                "price" : "1.99",
+                "url" : "/",
+                "data-item-description" : "Thanos Rising",
+                "data-item-image" : "/thumbnails/thanos 5.jpg  ",
+                "data-item-name" : "Thanos Rising",
+                "year" : "2013",
+                "issue" : "5",
+                "series" : "Thanos Rising",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/thanos 5",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "thanosrising",
+                "price" : "1.99",
+                "url" : "/",
+                "data-item-description" : "Thanos Rising",
+                "data-item-image" : "/thumbnails/rhanos rising 4.jpg  ",
+                "data-item-name" : "Thanos Rising",
+                "year" : "2013",
+                "issue" : "4",
+                "series" : "Thanos Rising",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/rhanos rising 4.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "thanosrising",
+                "price" : "1.99",
+                "url" : "/",
+                "data-item-description" : "Thanos Rising",
+                "data-item-image" : "/thumbnails/thanos rising 1.jpg  ",
+                "data-item-name" : "Thanos Rising",
+                "year" : "2013",
+                "issue" : "1",
+                "series" : "Thanos Rising",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/thanos rising 1.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "thanosvshulk",
+                "price" : "12.99",
+                "url" : "/",
+                "data-item-description" : "Thanos Vs Hulk run",
+                "data-item-image" : "/thumbnails/thanos vs hulk.jpg  ",
+                "data-item-name" : "Thanos Vs Hulk",
+                "year" : "2015",
+                "issue" : "1 - 4",
+                "series" : "Thanos Vs Hulk",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/thanos vs hulk.jpg",
+                "run" : "yes",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "terrorinc",
+                "price" : "4.99",
+                "url" : "/",
+                "data-item-description" : "Terror Inc. Apocalypse Soon",
+                "data-item-image" : "/thumbnails/terrorinc.jpg  ",
+                "data-item-name" : "Terror Inc",
+                "year" : "2009",
+                "issue" : "1 - 3",
+                "series" : "Terror Inc",
+                "type" : "",
+                "label" : "sale",
+                "sale-price" : "7.99",
+                "publisher" : "Max",
+                "extra" : "",
+                "enlarge" : "/img/terrorinc.jpg",
+                "run" : "yes",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "supremepowerspecial",
+                "price" : "0.99",
+                "url" : "/",
+                "data-item-description" : "Supreme Power Special",
+                "data-item-image" : "/thumbnails/supreme power special.jpg  ",
+                "data-item-name" : "Supreme Power",
+                "year" : "2003",
+                "issue" : "1 - 5",
+                "series" : "Supreme Power",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "2.99",
+                "publisher" : "Max",
+                "extra" : "",
+                "enlarge" : "/img/supreme power special.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "spiderman8",
+                "price" : "1.99",
+                "url" : "/",
+                "data-item-description" : "Spiderman",
+                "data-item-image" : "/thumbnails/spiderman8.jpg",
+                "data-item-name" : "Spiderman",
+                "year" : "1990",
+                "issue" : "8",
+                "series" : "Spiderman",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/spiderman8.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "spiderman5",
+                "price" : "1.99",
+                "url" : "/",
+                "data-item-description" : "Spiderman",
+                "data-item-image" : "/thumbnails/spiderman 5.jpg",
+                "data-item-name" : "Spiderman",
+                "year" : "1990",
+                "issue" : "5",
+                "series" : "Spiderman",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/spiderman 5.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "amazingspiderman333",
+                "price" : "4.99",
+                "url" : "/",
+                "data-item-description" : "Amazing Spiderman",
+                "data-item-image" : "/thumbnails/amazing spiderman 333.jpg",
+                "data-item-name" : "Spiderman",
+                "year" : "1990",
+                "issue" : "333",
+                "series" : "Spiderman",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/amazing spiderman 333.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "thor239",
+                "price" : "0.99",
+                "url" : "/",
+                "data-item-description" : "Thor 239",
+                "data-item-image" : "/thumbnails/thor 239.jpg",
+                "data-item-name" : "thor",
+                "year" : "1975",
+                "issue" : "239",
+                "series" : "thor",
+                "type" : "",
+                "label" : "sale",
+                "sale-price" : "4.99",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/thor 239.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "300",
+                "price" : "49.99",
+                "url" : "/",
+                "data-item-description" : "300 - First prints (inspired the film 300) full run",
+                "data-item-image" : "/thumbnails/300.jpg",
+                "data-item-name" : "300",
+                "year" : "1998",
+                "issue" : "1 - 5",
+                "series" : "300",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Dark Horse",
+                "extra" : "",
+                "enlarge" : "/img/300.jpg",
+                "run" : "yes",
+                "dimensions" : {
+                    "weight" : "500"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+             {
+                 "id" : "webofspidermanflip",
+                 "price" : "9.99",
+                 "url" : "/",
+                 "data-item-description" : "Web of Spiderman - flip book collectors edition full run",
+                 "data-item-image" : "/thumbnails/web of spiderman 117.jpg",
+                 "data-item-name" : "Spiderman",
+                 "year" : "2009",
+                 "issue" : "117 - 119",
+                 "series" : "Web of Spiderman",
+                 "type" : "",
+                 "label" : "",
+                 "sale-price" : "",
+                 "publisher" : "Marvel",
+                 "extra" : "",
+                 "enlarge" : "/img/web of spiderman 117.jpg",
+                 "run" : "yes",
+                 "dimensions" : {
+                    "weight" : "400"
+                 }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+                },
+            {
+                "id" : "daredevil111",
+                "price" : "39.99",
+                "url" : "/",
+                "data-item-description" : "Daredevil - First appearance of Lady Bullseye",
+                "data-item-image" : "/thumbnails/daredevil 111.jpg",
+                "data-item-name" : "Daredevil",
+                "year" : "2008",
+                "issue" : "111",
+                "series" : "Daredevil vol.2",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/daredevil 111.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "amazingspiderman332",
+                "price" : "19.99",
+                "url" : "/",
+                "data-item-description" : "Amazing Spiderman - First depiction of  Venom",
+                "data-item-image" : "/thumbnails/amazing spiderman 332.jpg",
+                "data-item-name" : "Amazing Spiderman",
+                "year" : "1990",
+                "issue" : "332",
+                "series" : "Spiderman",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/amazing spiderman 332.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "maximumcarnage",
+                "price" : "69.99",
+                "url" : "/",
+                "data-item-description" : "Maximum Carnage run *missing 2, 6, 8, 9*",
+                "data-item-image" : "/thumbnails/maximum carnage.jpg",
+                "data-item-name" : "Maximum Carnage",
+                "year" : "1993",
+                "issue" : "1 - 14",
+                "series" : "Amazing Spiderman",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/maximum carnage.jpg",
+                "run" : "yes",
+                "dimensions" : {
+                    "weight" : "1000"
+                },
+                "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "amazingspiderman362",
+                "price" : "69.99",
+                "url" : "/",
+                "data-item-description" : "Amazing Spiderman - Second appearance of Carnage",
+                "data-item-image" : "/thumbnails/amazing spiderman 162.jpg",
+                "data-item-name" : "Amazing Spiderman",
+                "year" : "1992",
+                "issue" : "362",
+                "series" : "Spiderman",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/amazing spiderman 162.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "amazingspidermanannual28",
+                "price" : "4.99",
+                "url" : "/",
+                "data-item-description" : "Amazing Spiderman Annual",
+                "data-item-image" : "/thumbnails/amazing spiderman annual 28.jpg",
+                "data-item-name" : "Amazing Spiderman Annual",
+                "year" : "1994",
+                "issue" : "28",
+                "series" : "Spiderman Annual",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/amazing spiderman annual 28.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "deparmentoftruth3",
+                "price" : "24.99",
+                "url" : "/",
+                "data-item-description" : "Department of Truth 1:25 ratio Henderson variant ",
+                "data-item-image" : "/thumbnails/department of truth 3.jpg",
+                "data-item-name" : "Department of Truth",
+                "year" : "2020",
+                "issue" : "3",
+                "series" : "Department of Truth",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Image",
+                "extra" : "",
+                "enlarge" : "/img/department of truth 3.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "newmutants14",
+                "price" : "24.99",
+                "url" : "/",
+                "data-item-description" : "New Mutants *NEWSSTAND* - First appearance of Ilya Rasputin as Magik",
+                "data-item-image" : "/thumbnails/New Mutants 14.jpg",
+                "data-item-name" : "New Mutants 14",
+                "year" : "1984",
+                "issue" : "14",
+                "series" : "New Mutants",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/New Mutants 14.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "spidermanfcbd07",
+                "price" : "69.99",
+                "url" : "/",
+                "data-item-description" : "Spiderman Free Comic Book Day 2007 - First Jackpot",
+                "data-item-image" : "/thumbnails/Spiderman free comic book day 2007.jpg",
+                "data-item-name" : "Spiderman Free Comic Book Day 2007",
+                "year" : "2007",
+                "issue" : "FCBD",
+                "series" : "Spiderman Free Comic Book Day 2007",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/Spiderman free comic book day 2007.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "uncannyxmen135",
+                "price" : "99.99",
+                "url" : "/",
+                "data-item-description" : "Uncanny X-men - First Senator Kelly / Dark Pheonix Saga ",
+                "data-item-image" : "/thumbnails/uncanny xmen 135 2.jpg",
+                "data-item-name" : "Uncanny Xmen 135",
+                "year" : "1980",
+                "issue" : "135",
+                "series" : "Uncanny X-men",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/uncanny xmen 135 2.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "spectacularspiderman90",
+                "price" : "19.99",
+                "url" : "/",
+                "data-item-description" : "Spectacular Spiderman - Disputed first black suit ",
+                "data-item-image" : "/thumbnails/spectacular spiderman 90.jpg",
+                "data-item-name" : "Spectacular Spiderman 90",
+                "year" : "1984",
+                "issue" : "90",
+                "series" : "Spectacular Spiderman",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/spectacular spiderman 90.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "spectacularspiderman107",
+                "price" : "14.99",
+                "url" : "/",
+                "data-item-description" : "Spectacular Spiderman - first appearance of Sin-Eater ",
+                "data-item-image" : "/thumbnails/spectacular spiderman 107.jpg",
+                "data-item-name" : "Spectacular Spiderman 107",
+                "year" : "1985",
+                "issue" : "107",
+                "series" : "Spectacular Spiderman",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/spectacular spiderman 107.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "uncannyxmen135",
+                "price" : "99.99",
+                "url" : "/",
+                "data-item-description" : "Uncanny X-men - First Senator Kelly / Dark Pheonix Saga ",
+                "data-item-image" : "/thumbnails/uncanny xmen 135.jpg",
+                "data-item-name" : "Uncanny Xmen 135",
+                "year" : "1980",
+                "issue" : "135",
+                "series" : "Uncanny X-men",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/uncanny xmen 135.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "thetewelve",
+                "price" : "9.99",
+                "url" : "/",
+                "data-item-description" : "Marvel's The Twelve full run",
+                "data-item-image" : "/thumbnails/The Twelve.jpg",
+                "data-item-name" : "The Twelve Run",
+                "year" : "2008",
+                "issue" : "1 - 12",
+                "series" : "The Twelve",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/The Twelve.jpg",
+                "run" : "yes",
+                "dimensions" : {
+                    "weight" : "1000"
+                },
+                "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "thunderboltsv1",
+                "price" : "14.99",
+                "url" : "/",
+                "data-item-description" : "Thunderbolts vol.1 including full 'caged angels' run",
+                "data-item-image" : "/thumbnails/Thunderbolts v1.jpg",
+                "data-item-name" : "Thunderbolts 12",
+                "year" : "2007",
+                "issue" : "116 - 121",
+                "series" : "Thunderbolts",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/Thunderbolts v1.jpg",
+                "run" : "yes",
+                "dimensions" : {
+                    "weight" : "500"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "thunderbolts12",
+                "price" : "1.99",
+                "url" : "/",
+                "data-item-description" : "Thunderbolts",
+                "data-item-image" : "/thumbnails/Thunderbolts 12.jpg",
+                "data-item-name" : "Thunderbolts 12",
+                "year" : "2013",
+                "issue" : "12",
+                "series" : "Thunderbolts",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/Thunderbolts 12.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "thunderbolts13",
+                "price" : "1.99",
+                "url" : "/",
+                "data-item-description" : "Thunderbolts",
+                "data-item-image" : "/thumbnails/Thunderbolts 13.jpg",
+                "data-item-name" : "Thunderbolts 13",
+                "year" : "2013",
+                "issue" : "13",
+                "series" : "Thunderbolts",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/Thunderbolts 13.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "thunderboltsrun",
+                "price" : "14.99",
+                "url" : "/",
+                "data-item-description" : "Thunderbolts Run ",
+                "data-item-image" : "/thumbnails/Thunderbolts 1-7.jpg",
+                "data-item-name" : "Thunderbolts Run",
+                "year" : "2013",
+                "issue" : "1 - 7",
+                "series" : "Thunderbolts",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/Thunderbolts 1-7.jpg",
+                "run" : "yes",
+                "dimensions" : {
+                    "weight" : "700"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "thorgodsize",
+                "price" : "4.99",
+                "url" : "/",
+                "data-item-description" : "Thor - God Size ",
+                "data-item-image" : "/thumbnails/Thor god size.jpg",
+                "data-item-name" : "Thor - God Size",
+                "year" : "2009",
+                "issue" : "One Shot",
+                "series" : "Thor - God Size",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/Thor god size.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "thortrial",
+                "price" : "4.99",
+                "url" : "/",
+                "data-item-description" : "Trial of Thor ",
+                "data-item-image" : "/thumbnails/Trial of Thor.jpg",
+                "data-item-name" : "Trial of Thor",
+                "year" : "2009",
+                "issue" : "One Shot",
+                "series" : "Trial of Thor",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/Trial of Thor.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "thortruth",
+                "price" : "4.99",
+                "url" : "/",
+                "data-item-description" : "Thor - Truth of History ",
+                "data-item-image" : "/thumbnails/Thor the truth of history.jpg",
+                "data-item-name" : "Thor - Truth of History",
+                "year" : "2008",
+                "issue" : "One Shot",
+                "series" : "Thor - Truth of History",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/Thor the truth of history.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "thorvikings",
+                "price" : "19.99",
+                "url" : "/",
+                "data-item-description" : "Thor - Vikings ",
+                "data-item-image" : "/thumbnails/Thor Viking.jpg",
+                "data-item-name" : "Thor - Vikings full run by Garth Ennis",
+                "year" : "2003",
+                "issue" : "1 - 5",
+                "series" : "Thor - Vikings",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "MAX",
+                "extra" : "",
+                "enlarge" : "/img/Thor Viking.jpg",
+                "run" : "yes",
+                "dimensions" : {
+                    "weight" : "600"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "namorthedepths",
+                "price" : "14.99",
+                "url" : "/",
+                "data-item-description" : "Sub-mariner - The Depths ",
+                "data-item-image" : "/thumbnails/submariner the depths.jpg",
+                "data-item-name" : "Sub-mariner - The Depths full run",
+                "year" : "2008",
+                "issue" : "1 - 5",
+                "series" : "Sub-mariner - The Depths",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/submariner the depths.jpg",
+                "run" : "yes",
+                "dimensions" : {
+                    "weight" : "600"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "starwarsrebelheist-1",
+                "price" : "1.99",
+                "url" : "/",
+                "data-item-description" : "Star Wars Rebel Heist ",
+                "data-item-image" : "/thumbnails/star wars rebel heist 1.jpg",
+                "data-item-name" : "Star Wars Rebel Heist",
+                "year" : "2014",
+                "issue" : "1",
+                "series" : "Star Wars Rebel Heist",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "3.99",
+                "publisher" : "Dark Horse",
+                "extra" : "",
+                "enlarge" : "/img/star wars rebel heist 1.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "starwarsvol2-2",
+                "price" : "2.99",
+                "url" : "/",
+                "data-item-description" : "Star Wars vol.2 ",
+                "data-item-image" : "/thumbnails/starwars vol.2 2.jpg",
+                "data-item-name" : "Star Wars vol.2",
+                "year" : "2015",
+                "issue" : "2",
+                "series" : "Star Wars vol.2",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "4.99",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/starwars vol.2 2.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "starwarsvol2-1",
+                "price" : "2.99",
+                "url" : "/",
+                "data-item-description" : "Star Wars vol.2 ",
+                "data-item-image" : "/thumbnails/starwars vol.2 1.jpg",
+                "data-item-name" : "Star Wars vol.2",
+                "year" : "2015",
+                "issue" : "1",
+                "series" : "Star Wars vol.2",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "4.99",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/starwars vol.2 1.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "spiderwoman2015",
+                "price" : "2.99",
+                "url" : "/",
+                "data-item-description" : "Spiderwoman vol. 5 ",
+                "data-item-image" : "/thumbnails/Spiderwoman vol. 5.jpg",
+                "data-item-name" : "Spiderwoman vol. 5",
+                "year" : "2015",
+                "issue" : "1",
+                "series" : "Spiderwoman vol.5",
+                "type" : "",
+                "label" : "sale",
+                "sale-price" : "4.99",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/Spiderwoman vol. 5.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "spiderwoman2009",
+                "price" : "34.99",
+                "url" : "/",
+                "data-item-description" : "Spiderwoman vol. 4 mint complete first print set with rare Alex Maleev cover #1",
+                "data-item-image" : "/thumbnails/Spiderwoman vol. 4.jpg",
+                "data-item-name" : "Spiderwoman vol. 4",
+                "year" : "2009",
+                "issue" : "1 - 7",
+                "series" : "Spiderwoman vol.4",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/Spiderwoman vol. 4.jpg",
+                "run" : "yes",
+                "dimensions" : {
+                    "weight" : "700"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "spidermanmegalomaniacal",
+                "price" : "1.99",
+                "url" : "/",
+                "data-item-description" : "The Megalomaniacal Spiderman",
+                "data-item-image" : "/thumbnails/Megalomaniacal spiderman.jpg",
+                "data-item-name" : "Spiderman",
+                "year" : "2002",
+                "issue" : "1",
+                "series" : "The Megalomaniacal Spiderman",
+                "type" : "",
+                "label" : "sale",
+                "sale-price" : "4.99",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/Megalomaniacal spiderman.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "spidermanblackcat3",
+                "price" : "2.99",
+                "url" : "/",
+                "data-item-description" : "Spiderman and the Black Cat",
+                "data-item-image" : "/thumbnails/spiderman and the black cat 3.jpg",
+                "data-item-name" : "Spiderman and the Black Cat",
+                "year" : "2006",
+                "issue" : "3",
+                "series" : "Spiderman and the Black Cat",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/spiderman and the black cat 3.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "spidermanblackcat",
+                "price" : "2.99",
+                "url" : "/",
+                "data-item-description" : "Spiderman and the Black Cat",
+                "data-item-image" : "/thumbnails/spiderman and the black cat 1.jpg",
+                "data-item-name" : "Spiderman and the Black Cat",
+                "year" : "2006",
+                "issue" : "1",
+                "series" : "Spiderman and the Black Cat",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/spiderman and the black cat 1.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "spiderfever",
+                "price" : "1.99",
+                "url" : "/",
+                "data-item-description" : "Spiderman fever",
+                "data-item-image" : "/thumbnails/spiderman fever.jpg",
+                "data-item-name" : "Spiderman fever",
+                "year" : "2010",
+                "issue" : "1",
+                "series" : "Fever",
+                "type" : "",
+                "label" : "sale",
+                "sale-price" : "4.99",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/spiderman fever.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "spidermanhalloween",
+                "price" : "2.99",
+                "url" : "/",
+                "data-item-description" : "Spiderman - The Short Halloween",
+                "data-item-image" : "/thumbnails/spiderman short halloween.jpg",
+                "data-item-name" : "spiderman The Short Halloween",
+                "year" : "2009",
+                "issue" : "One Shot",
+                "series" : "Short Halloween",
+                "type" : "",
+                "label" : "sale",
+                "sale-price" : "4.99",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/spiderman short halloween.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "spidermantangle",
+                "price" : "9.99",
+                "url" : "/",
+                "data-item-description" : "Spiderman - tangled web run",
+                "data-item-image" : "/thumbnails/spiderman tangled web.jpg",
+                "data-item-name" : "spiderman tangeld web",
+                "year" : "2002",
+                "issue" : "13-22",
+                "series" : "Tangled web",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/spiderman tangled web.jpg",
+                "run" : "yes",
+                "dimensions" : {
+                    "weight" : "900"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "spidermanblue",
+                "price" : "24.99",
+                "url" : "/",
+                "data-item-description" : "Spiderman - blue full set, first prints",
+                "data-item-image" : "/thumbnails/spiderman blue.jpg",
+                "data-item-name" : "spiderman blue",
+                "year" : "2002",
+                "issue" : "1-6",
+                "series" : "Blue",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/spiderman blue.jpg",
+                "run" : "yes",
+                "dimensions" : {
+                    "weight" : "700"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "spidermanlifeline",
+                "price" : "9.99",
+                "url" : "/",
+                "data-item-description" : "Spiderman - Lifeline complete run",
+                "data-item-image" : "/thumbnails/spiderman lifeline.jpg",
+                "data-item-name" : "spiderman lifeline",
+                "year" : "2001",
+                "issue" : "1-4",
+                "series" : "With Great Power",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/spiderman lifeline.jpg",
+                "run" : "yes",
+                "dimensions" : {
+                    "weight" : "400"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+             {
+                "id" : "spidermanqualityoflife",
+                "price" : "4.99",
+                "url" : "/",
+                "data-item-description" : "Spiderman - Quality of Life complete run",
+                "data-item-image" : "/thumbnails/spiderman quality of life.jpg",
+                "data-item-name" : "Spiderman quality of life",
+                "year" : "2002",
+                "issue" : "1 - 4",
+                "series" : "With Great Power",
+                "type" : "",
+                "label" : "sale",
+                "sale-price" : "9.99",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/spiderman quality of life.jpg",
+                "run" : "yes",
+                "dimensions" : {
+                    "weight" : "400"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "spidermanvol1",
+                "price" : "39.99",
+                "url" : "/",
+                "data-item-description" : "Spiderman volume 1 (6 - 14) including full 'Perceptions' run",
+                "data-item-image" : "/thumbnails/spiderman vol 1.jpg",
+                "data-item-name" : "Spiderman",
+                "year" : "1991",
+                "issue" : "6 - 11",
+                "series" : "Spiderman vol.1",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/spiderman vol 1.jpg",
+                "run" : "yes",
+                "dimensions" : {
+                    "weight" : "500"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "withgreatpower",
+                "price" : "3.99",
+                "url" : "/",
+                "data-item-description" : "Spiderman - With great power",
+                "data-item-image" : "/thumbnails/spiderman with great power.jpg",
+                "data-item-name" : "spiderman",
+                "year" : "2008",
+                "issue" : "1",
+                "series" : "With Great Power",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/spiderman with great power.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "ultimatespidermansummer",
+                "price" : "1.99",
+                "url" : "/",
+                "data-item-description" : "Ultimate Spiderman - Summer Special",
+                "data-item-image" : "/thumbnails/- Summer special.jpg",
+                "data-item-name" : "Spiderman",
+                "year" : "2002",
+                "issue" : "One Shot",
+                "series" : "Ultimate Spiderman",
+                "type" : "",
+                "label" : "sale",
+                "sale-price" : "4.99",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/- Summer special.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "silversurfer",
+                "price" : "19.99",
+                "url" : "/",
+                "data-item-description" : "Silver Surfer run",
+                "data-item-image" : "/thumbnails/Silver surfer.jpg",
+                "data-item-name" : "Silver Surfer",
+                "year" : "2014",
+                "issue" : "1 - 11",
+                "series" : "Silver Surfer",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/Silver surfer.jpg",
+                "run" : "yes",
+                "dimensions" : {
+                    "weight" : "1000"
+                },
+                "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "shield2.i",
+                "price" : "6.99",
+                "url" : "/",
+                "data-item-description" : "Marvel Shield vol.2",
+                "data-item-image" : "/thumbnails/shield ixs.jpg",
+                "data-item-name" : "Shield",
+                "year" : "2011",
+                "issue" : "Infinity",
+                "series" : "Shield",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/shield i.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "shield2.3",
+                "price" : "1.99",
+                "url" : "/",
+                "data-item-description" : "Marvel Shield vol.2",
+                "data-item-image" : "/thumbnails/shield 2 3xs.jpg",
+                "data-item-name" : "Shield",
+                "year" : "2011",
+                "issue" : "3",
+                "series" : "Shield",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/shield 2 3.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "shield2.2",
+                "price" : "1.99",
+                "url" : "/",
+                "data-item-description" : "Marvel Shield vol.2",
+                "data-item-image" : "/thumbnails/shield 2 2xs.jpg",
+                "data-item-name" : "Shield",
+                "year" : "2011",
+                "issue" : "2",
+                "series" : "Shield",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/shield 2 2.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "shield2.1",
+                "price" : "1.99",
+                "url" : "/",
+                "data-item-description" : "Marvel Shield vol.2",
+                "data-item-image" : "/thumbnails/shield v2 1xs.jpg",
+                "data-item-name" : "Shield",
+                "year" : "2011",
+                "issue" : "1",
+                "series" : "Shield",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/shield v2 1.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "shield1",
+                "price" : "12.99",
+                "url" : "/",
+                "data-item-description" : "Marvel Shield (including variant #1) full run",
+                "data-item-image" : "/thumbnails/shieldxs.jpg",
+                "data-item-name" : "Shield",
+                "year" : "2010",
+                "issue" : "1 - 6",
+                "series" : "Shield",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/shield.jpg",
+                "run" : "yes",
+                "dimensions" : {
+                    "weight" : "600"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "Punmax-tin",
+                "price" : "3.49",
+                "url" : "/",
+                "data-item-description" : "Punisher MAX 'Tiny Ugly World'",
+                "data-item-image" : "/thumbnails/punishermaxtinyxs.jpg",
+                "data-item-name" : "Punisher",
+                "year" : "2010",
+                "issue" : "One shot",
+                "series" : "Punisher MAX",
+                "type" : "",
+                "label" : "sale",
+                "sale-price" : "4.99",
+                "publisher" : "MAX",
+                "extra" : "",
+                "enlarge" : "/img/punishermaxtiny.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "Punmax-hap",
+                "price" : "3.49",
+                "url" : "/",
+                "data-item-description" : "Punisher MAX 'Happy Ending'",
+                "data-item-image" : "/thumbnails/punishermax happyxs.jpg",
+                "data-item-name" : "Punisher",
+                "year" : "2010",
+                "issue" : "One shot",
+                "series" : "Punisher MAX",
+                "type" : "",
+                "label" : "sale",
+                "sale-price" : "4.99",
+                "publisher" : "MAX",
+                "extra" : "",
+                "enlarge" : "/img/punishermax happy.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+             {
+                "id" : "Punmax",
+                "price" : "79.99",
+                "url" : "/",
+                "data-item-description" : "Punisher MAX huge full run",
+                "data-item-image" : "/thumbnails/punishermaxxs.jpg",
+                "data-item-name" : "Punisher",
+                "year" : "2010",
+                "issue" : "1 - 22",
+                "series" : "Punisher MAX",
+                "type" : "",
+                "label" : "sale",
+                "sale-price" : "89.99",
+                "publisher" : "MAX",
+                "extra" : "",
+                "enlarge" : "/img/punishermax.jpg",
+                "run" : "yes",
+                "dimensions" : {
+                    "weight" : "2400"
+                },
+                "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+             {
+                "id" : "Punpain",
+                "price" : "9.99",
+                "url" : "/",
+                "data-item-description" : "Punisher: Painkiller Jane",
+                "data-item-image" : "/thumbnails/punisher-painkillerjanexs.jpg",
+                "data-item-name" : "Punisher",
+                "year" : "2001",
+                "issue" : "One Shot Special",
+                "series" : "Marvel Knights",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/punisher-painkillerjane.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+             {
+                "id" : "pulse",
+                "price" : "9.99",
+                "url" : "/",
+                "data-item-description" : "Marvel's 'The Pulse' run",
+                "data-item-image" : "/thumbnails/pulsexs.jpg",
+                "data-item-name" : "Pulse",
+                "year" : "2006",
+                "issue" : "1 - 4",
+                "series" : "Sin City",
+                "type" : "",
+                "label" : "sale",
+                "sale-price" : "14.99",
+                "publisher" : "Marvel",
+                "extra" : "",
+                "enlarge" : "/img/pulse.jpg",
+                "run" : "yes",
+                "dimensions" : {
+                    "weight" : "400"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+             {
+                "id" : "sin-the",
+                "price" : "4.99",
+                "url" : "/",
+                "data-item-description" : "Sin City 'The Babe wore red'",
+                "data-item-image" : "/thumbnails/sintbwrxs.jpg",
+                "data-item-name" : "Sin City",
+                "year" : "1994",
+                "issue" : "One Shot",
+                "series" : "Sin City",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Dark Horse",
+                "extra" : "",
+                "enlarge" : "/img/sintbwr.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "sin-toh-9",
+                "price" : "4.99",
+                "url" : "/",
+                "data-item-description" : "Sin City 'To Hell & Back'",
+                "data-item-image" : "/thumbnails/sintoh9xs.jpg",
+                "data-item-name" : "Sin City",
+                "year" : "1993",
+                "issue" : "9",
+                "series" : "Sin City",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Dark Horse",
+                "extra" : "",
+                "enlarge" : "/img/sintoh9.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "sin-bif",
+                "price" : "19.99",
+                "url" : "/",
+                "data-item-description" : "Sin City 'Big Fat Kill full set'",
+                "data-item-image" : "/thumbnails/sinbifxs.jpg",
+                "data-item-name" : "Sin City",
+                "year" : "1994",
+                "issue" : "1 - 5",
+                "series" : "Sin City",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Dark Horse",
+                "extra" : "",
+                "enlarge" : "/img/sinbif.jpg",
+                "run" : "yes",
+                "dimensions" : {
+                    "weight" : "600"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "sin-toh",
+                "price" : "9.99",
+                "url" : "/",
+                "data-item-description" : "Sin City 'To Hell and Back'",
+                "data-item-image" : "/thumbnails/sinthexs.jpg",
+                "data-item-name" : "Sin City",
+                "year" : "1993",
+                "issue" : "1 - 3",
+                "series" : "Sin City",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Dark Horse",
+                "extra" : "",
+                "enlarge" : "/img/sinthe.jpg",
+                "run" : "yes",
+                "dimensions" : {
+                    "weight" : "400"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+              {
+                "id" : "sin-ada",
+                "price" : "19.99",
+                "url" : "/",
+                "data-item-description" : "Sin City 'A dame to kill for'",
+                "data-item-image" : "/thumbnails/sinadaxs.jpg",
+                "data-item-name" : "Sin City",
+                "year" : "1993",
+                "issue" : "2 - 6",
+                "series" : "Sin City",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Dark Horse",
+                "extra" : "Please note, this run is missing no.1",
+                "enlarge" : "/img/sinad.jpg",
+                "run" : "yes",
+                "dimensions" : {
+                    "weight" : "600"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+             {
+                "id" : "sin-los",
+                "price" : "4.99",
+                "url" : "/",
+                "data-item-description" : "Sin City 'Lost Lonely & Lethal'",
+                "data-item-image" : "/thumbnails/sinlostxs.jpg",
+                "data-item-name" : "Sin City",
+                "year" : "1996",
+                "issue" : "One Shot",
+                "series" : "Sin City",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Dark Horse",
+                "extra" : "",
+                "enlarge" : "/img/sinlost.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "sin-jus",
+                "price" : "6.99",
+                "url" : "/",
+                "data-item-description" : "Sin City 'Just another Saturday night'",
+                "data-item-image" : "/thumbnails/sinjasnxs.jpg",
+                "data-item-name" : "Sin City",
+                "year" : "1998",
+                "issue" : "One Shot",
+                "series" : "Sin City",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Dark Horse",
+                "extra" : "",
+                "enlarge" : "/img/sinjasn.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "sin-yel",
+                "price" : "49.99",
+                "url" : "/",
+                "data-item-description" : "Sin City 'That Yellow Bastard' full set",
+                "data-item-image" : "/thumbnails/sin-yelxs.jpg",
+                "data-item-name" : "Sin City",
+                "year" : "1997",
+                "issue" : "1 - 5",
+                "series" : "Sin City",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Dark Horse",
+                "extra" : "",
+                "enlarge" : "/img/sin-yel.jpg",
+                "run" : "yes",
+                "dimensions" : {
+                    "weight" : "600"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "emp-1",
+                "price" : "19.99",
+                "url" : "/",
+                "data-item-description" : "Empty Man",
+                "data-item-image" : "/thumbnails/empty.jpg",
+                "data-item-name" : "Empty Man 1",
+                "year" : "2018",
+                "issue" : "1",
+                "series" : "Empty Man",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Boom",
+                "extra" : "",
+                "enlarge" : "/img/empty.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },   
+             {
+                "id" : "sup-1",
+                "price" : "1.99",
+                "url" : "/",
+                "data-item-description" : "Superior",
+                "data-item-image" : "/thumbnails/sup1xs.jpg",
+                "data-item-name" : "Superior 1",
+                "year" : "2010",
+                "issue" : "1",
+                "series" : "Superior",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Icon",
+                "extra" : "",
+                "enlarge" : "/img/sup1.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "sup-2",
+                "price" : "1.99",
+                "url" : "/",
+                "data-item-description" : "Superior",
+                "data-item-image" : "/thumbnails/sup2xs.jpg",
+                "data-item-name" : "Superior 2",
+                "year" : "2010",
+                "issue" : "2",
+                "series" : "Superior",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Icon",
+                "extra" : "",
+                "enlarge" : "/img/sup2.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "sup-3",
+                "price" : "1.99",
+                "url" : "/",
+                "data-item-description" : "Superior",
+                "data-item-image" : "/thumbnails/sup3xs.jpg",
+                "data-item-name" : "Superior 3",
+                "year" : "2010",
+                "issue" : "3",
+                "series" : "Superior",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Icon",
+                "extra" : "",
+                "enlarge" : "/img/sup3.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "sup-4",
+                "price" : "1.99",
+                "url" : "/",
+                "data-item-description" : "Superior",
+                "data-item-image" : "/thumbnails/sup4xs.jpg",
+                "data-item-name" : "Superior 4",
+                "year" : "2010",
+                "issue" : "4",
+                "series" : "Superior",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Icon",
+                "extra" : "",
+                "enlarge" : "/img/sup4.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "sup-6",
+                "price" : "1.99",
+                "url" : "/",
+                "data-item-description" : "Superior",
+                "data-item-image" : "/thumbnails/sup6xs.jpg",
+                "data-item-name" : "Superior 6",
+                "year" : "2010",
+                "issue" : "6",
+                "series" : "Superior",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Icon",
+                "extra" : "",
+                "enlarge" : "/img/sup6.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            },
+            {
+                "id" : "sup-7",
+                "price" : "1.99",
+                "url" : "/",
+                "data-item-description" : "Superior",
+                "data-item-image" : "/thumbnails/sup7xs.jpg",
+                "data-item-name" : "Superior 7",
+                "year" : "2010",
+                "issue" : "7",
+                "series" : "Superior",
+                "type" : "",
+                "label" : "",
+                "sale-price" : "",
+                "publisher" : "Icon",
+                "extra" : "",
+                "enlarge" : "/img/sup7.jpg",
+                "run" : "",
+                "dimensions" : {
+                    "weight" : "100"
+                }
+ 
+       ,         "stock" : 1,
+                "allowOutOfStockPurchases" : false
+            }
+    ]
