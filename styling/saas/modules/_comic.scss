@@ -40,10 +40,12 @@
 }
 
 .comic {
+
     &__image-container {
-        width: 60%;
+        width: 45%;
         text-align: center;
-        margin: 2rem 2rem 2rem 20%;
+        margin: 1rem 3rem;
+        float: left;
     }
     &__color-black {
         color: black!important;

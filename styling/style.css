@@ -16,8 +16,7 @@
 
 .header__navbar-logo-box {
   width: 4rem;
-  margin: 1rem 2rem;
-  position: absolute;
+  margin: 0 0 1rem 1rem;
   top: 0;
   right: 0; }
 
@@ -35,7 +34,9 @@
     width: 100%;
     justify-content: space-between;
     text-align: center;
-    margin-top: .5rem; } }
+    margin-top: .5rem;
+    position: absolute;
+    bottom: -1rem; } }
 
 .main__frontBtns-left {
   margin: 0;
@@ -222,9 +223,10 @@
   overflow-x: hidden; }
 
 .comic__image-container {
-  width: 60%;
+  width: 45%;
   text-align: center;
-  margin: 2rem 2rem 2rem 20%; }
+  margin: 1rem 3rem;
+  float: left; }
 
 .comic__color-black {
   color: black !important; }
@@ -668,7 +670,10 @@ body::-webkit-scrollbar-thumb {
   background-image: url("https://i.pinimg.com/originals/a3/12/77/a31277f463eee52e717e84ac59b0f00b.jpg"); }
 
 .desk-hide {
-  display: none; }
+  display: none !important; }
+
+.desk-hide2 {
+  display: none !important; }
 
 .b1 {
   background-image: url("/img/silver.jpg");
@@ -760,7 +765,7 @@ iframe {
   .logoText2 {
     font-size: 4.5rem !important; }
   .shopnav {
-    height: 6.5rem !important; }
+    height: 11.5rem !important; }
   .mob-links {
     margin-left: .5rem;
     display: block; }
@@ -788,7 +793,8 @@ iframe {
   .mob-nopad {
     padding: 0 !important; }
   .navbar {
-    height: 5rem; }
+    height: 5rem;
+    align-items: flex-start; }
   .mob-mt-2 {
     margin-top: 2rem; }
   .pl-5 {
@@ -796,9 +802,11 @@ iframe {
   .mob-mb {
     margin-bottom: 1rem !important; }
   .mob-hide {
-    display: none; }
+    display: none !important; }
   .desk-hide {
-    display: block; }
+    display: block !important; }
+  .desk-hide2 {
+    display: flex !important; }
   .mob-fix {
     width: 95% !important;
     padding-left: 1rem; }

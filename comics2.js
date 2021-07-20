@@ -13,7 +13,6 @@ function randomizer() {
        return Math.floor(Math.random() * max);
     }
     banner.attr('src', background);
-    console.log(background);
     
 }
 
@@ -32,7 +31,6 @@ var span = $(".close");
 
 formBtn.on("click", function() {
     modal.show();
-    console.log("working");
   }) 
 
 // When the user clicks on <span> (x), close the modal
@@ -101,7 +99,6 @@ function template(comic) {
                     </div>  
                         `) 
                         shopCount++
-                        console.log(shopCount)
 } 
 
 
@@ -122,7 +119,138 @@ var search = ""
 var pubfilt = ""
 var age = ""
 var frontNew = $("#comic__list-new");
-var frontSale = $("#comic__list-sale")
+var frontSale = $("#comic__list-sale");
+var searchbar = $(".comic__search");
+var searchBarVal = ""
+
+function updateResults() {
+    $.ajax({
+        type: "GET",
+        url: "/comics.json",
+        contentType: "application/json",
+        success: function(inventory) {
+        var list = $("#comic__modern-list");
+            list.empty();
+        $.each(inventory, function(i, comic) {
+            var publisher = comic.publisher.toLowerCase();
+            var issue = comic.issue.toLowerCase();
+            var name = comic.series.toLowerCase();
+            var currentObject = comic;
+            // var type = comic.type.toLowerCase()
+            var year = comic.year; 
+            var type = ageSort(currentObject)
+            var searchField = comic['data-item-name'].toLowerCase()
+            var searchfieldDesc = comic['data-item-description'].toLowerCase()
+            
+
+    
+    
+    function ageSort(currentObject) {
+        
+        if (currentObject.year >= 1985) {
+            return "modern";
+        } else if (currentObject.year < 1985 && year >= 1970) {
+            return "bronze"; 
+        } else if (currentObject.year < 1970 && year >= 1956 ) {
+            return "silver";
+        } else if (currentObject.year < 1956) {
+            return "gold";
+        }
+    }
+    bookTotal = inventory.length;
+
+
+    if (publisher.toLowerCase().indexOf(searchBarVal.toLowerCase()) >= 0 || searchField.toLowerCase().indexOf(searchBarVal.toLowerCase()) >= 0 || searchfieldDesc.toLowerCase().indexOf(searchBarVal.toLowerCase()) >= 0 ) {
+
+            if (age == '') {
+                if (pubfilt == '') {
+                    if (search == '') {
+                        template(currentObject)
+                    } else if (search.includes(publisher) 
+                    || search.includes(issue) 
+                    || name.startsWith(search)) {
+                       template(currentObject)
+                    }
+                        
+                } else if (pubfilt) {
+                    if (publisher == pubfilt) {
+                        if (search == "") {
+                            template(currentObject)
+                        } else if (search.includes(publisher) && publisher == pubfilt
+                        || search.includes(issue) && publisher == pubfilt
+                        || name.startsWith(search) && publisher == pubfilt) {
+                           template(currentObject)
+                
+                        } 
+                        
+                    }
+                }  
+                
+            } else if (age) {
+                if (type == age) {
+                    if (pubfilt == "") {
+                        if (search == "") {
+                            template(currentObject)
+                    } else if (search.includes(publisher) && publisher == pubfilt
+                    || search.includes(issue) && publisher == pubfilt
+                    || name.startsWith(search) && publisher == pubfilt) {
+                       template(currentObject)
+            
+                    }
+                    } else if (pubfilt) {
+                        if (publisher == pubfilt) {
+                            if (search == "") {
+                                template(currentObject)
+                            } else if (search.includes(publisher) && publisher == pubfilt
+                            || search.includes(issue) && publisher == pubfilt
+                            || name.startsWith(search) && publisher == pubfilt) {
+                               template(currentObject)
+                    
+                            }
+                            
+                        }
+                    }
+                    
+            } 
+            
+        }
+
+    } else {
+        console.log("none");
+        }
+
+
+
+    
+    
+})
+    if (list.children().length <= 0) {
+        none()
+    }
+        }
+    })
+
+    
+}
+
+$('.comic__search').on("keypress", function(e) { 
+    if(e.which == 13) {
+        updateResults()
+    } 
+});
+
+
+$("body").on("keyup", ".comic__search", function(e) {
+    searchBarVal = $(this).val();
+    
+    console.log(searchBarVal);
+  });
+
+$("body").on("click", "#comicSearch", function() {    
+    updateResults();
+    console.log("click");
+});
+  
 
 $("body").on("click", ".comic__nav-buttons-reset", function() {
     age = "";
@@ -136,12 +264,11 @@ $("body").on("click", ".comic__nav-buttons-reset", function() {
     Loadmore()
     
     
-})
+});
 
 $("body").on("click", ".comic__nav-buttons", function() {
     $(".comic__nav-buttons").removeClass("current");
     search = this.id;
-    console.log(search);
     max = bookTotal;
     loadMore()
     update()
@@ -175,7 +302,6 @@ $("body").on("click", ".comic__nav-buttons-age", function() {
 $("body").on("click", ".comic__nav-buttons-show-box", function() {
     var text = $("comic__nav-buttons-show").text;
     $(".comic__nav-box").toggleClass("mob-hide");
-    console.log(text)
     if (text == "show filters" ) {
         $(text).text("Hide Filters");
     } else {

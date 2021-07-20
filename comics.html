@@ -25,7 +25,9 @@
         </div>
         <nav class="header__nav">
           <nav class="navbar navbar-expand-lg navbar-dark bg-dark shopnav">
-            
+            <a href="/index.html"><div class="header__navbar-logo-box">
+              <img src="/img/Fantasy Road logo white - small no text - comic book pressing, cleaning, sales.png" alt="" class="img-fluid header__navabar-logo">
+            </div></a>
               <div class="container-fluid comic__mob-reset">
                 <div>
                 <h1 style=" color: white; white-space: nowrap; margin-bottom: 0; padding-left: .4rem;">FANTASY ROAD.<span style="font-size: 1rem; color: rgb(83, 83, 83)"> Comic Book Shop</span></h1>
@@ -64,16 +66,18 @@
                     </li> -->
                   </ul>
                   
-                  <form class="d-flex" style="display: none!important;">
-                    <input class="form-control me-2 header__searchbar" type="search" placeholder="Search" aria-label="Search">
-                    <button class="btn btn-outline-success" type="submit">Search</button>
-                  </form>
+                  
                 </div>
+                
                 <div class="mob-links">
                   <a class="mob-nav" aria-current="page" href="/index.html">Home</a>
                   <a class="mob-nav" aria-current="page" href="/comic-book-pressing.html">Services</a>
                 </div>
               </div>
+              <form class="d-flex desk-hide2" style="margin-top: 1rem; width: 100%; padding: 0 1rem;" onSubmit="return false;">
+                <input class="form-control me-2 header__searchbar comic__search" type="search" placeholder="Search" aria-label="Search" style="width: 100%; margin-left: 0;">
+                <button id="comicSearch" class="btn btn-outline-success" type="button">Search</button>
+              </form>
                 <div class="header__comic-filters">
                   <div style="display:flex">
                     <a href="/index.html" class="btn btn-primary desk-hide comic__mob-btn" style="margin:.5rem;" ><p style="margin-top: -4px">Home</p></a>
@@ -117,7 +121,10 @@
                   </div>
                   <button id="" class="btn btn-danger comic__nav-buttons-reset"><p style="margin-top: -3px;">Reset</p></button>
                 </div>
-                
+                <form class="d-flex mob-hide" onSubmit="return false;">
+                  <input class="form-control me-2 header__searchbar comic__search" type="search" placeholder="Search" aria-label="Search" style="width: 15rem; margin-left: 2rem;">
+                  <button id="comicSearch" class="btn btn-outline-success" type="button">Search</button>
+                </form>
               </div>
             </nav>
       </nav>
