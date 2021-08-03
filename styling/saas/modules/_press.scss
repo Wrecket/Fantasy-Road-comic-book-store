@@ -1,0 +1,113 @@
+.press {
+    &__image {
+        &-container {
+            width: 100%;
+            text-align: center;
+            margin: 0 auto 1rem auto; 
+        }
+    }
+    &__header {
+        &-fee {
+            &-title {
+                position: absolute;
+                color: white;
+                top: -3rem;
+                right: 0;
+                font-size: 3rem;
+                font-weight: bold;
+                background-color: black;
+                padding: .5rem;border: .2rem rgba(255, 255, 255, 0.295) solid;
+            }
+        }
+        &-list {
+            background-color: rgb(95, 95, 95);
+            padding: 2rem;
+            color: white;
+            margin: 0;
+            border: 1rem rgba(0, 0, 0, 0.5) solid;
+            &-wrap {
+                background-image: url("https://www.pyramidinternational.com/assets/img/products/WDC93140");
+                padding: 3rem;
+                vertical-align:middle;
+                border: 1rem rgba(0, 0, 0, 0.5) solid;
+                margin-bottom: 1rem;
+                position: relative;
+            }
+        }
+       
+        &-wrap {
+            margin-bottom: 3rem;
+        }
+        &-sub-wrap {
+            display: flex;
+            margin-bottom: 1rem;
+        }
+        &-img-box {
+            width: 10rem;
+        }
+        &-sub-title {
+            padding-top: 15px;
+            margin-left: .5rem;
+        }
+        &-desc {
+            margin-bottom: 3rem;
+        }
+    }
+}
+
+@media (max-width: 800px) {
+#formBtn {
+    margin-top: -2rem;
+    margin-bottom: 2rem;
+}
+
+.freebirdFormviewerViewFooterFooterContainer {
+    flex-direction: column!important;
+}
+
+iframe {
+    width: 100%;
+}
+
+.modal-content {
+    margin: 0!important;
+    padding: 0!important;
+    width: 90%!important;
+    height: 95%!important;
+    margin: 5% auto!important;
+}
+
+.modal {
+    height: 90%;
+
+}
+
+    .press {
+        &__header {
+            &-sub {
+                &-title {
+                    margin-left: 0;
+                    margin-bottom: 1rem;
+                }
+            }
+            &-fee {
+                &-title {
+                    font-size: 2rem;
+                    right: 11%;
+                }
+            }
+            &-list {
+                padding: 2rem;
+                &-wrap {
+                    padding:.5rem;
+                    margin-bottom: 2rem;
+                }
+            }
+        }
+        &__image {
+            &-container {
+                display: none;
+            }
+        }
+    }
+}

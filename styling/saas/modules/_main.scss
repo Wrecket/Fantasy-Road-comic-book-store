@@ -1,0 +1,174 @@
+.main {
+    &__frontBtns {
+        &-left {
+            margin: 0; 
+            padding: 0 0rem 0 0;
+        }
+        &-right {
+            margin: 0 0 0 -3.5rem; 
+            padding: 0 0 0 2em;
+        }
+    }
+    &__news {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 4rem;
+    }
+    &__policies {
+        &-header {
+            margin:  0 0 1rem 0;
+            font-weight: bolder;
+            &-sub {
+                margin: 1rem 0;
+                font-weight: bolder;
+                &-sub {
+                    font-weight: 500;
+                }
+            }
+        }
+    }
+
+    &__buttons {
+        margin: 1rem;
+        width: 15%;
+        &-wrap {
+            display: flex;
+            position: absolute;
+            bottom: 0;
+        }
+    }
+    &__text {
+        &-body {
+            width: 77%;
+        }
+        &-box {
+            margin: 2rem 2rem 3rem 2rem;
+
+        }
+    }
+    &__gridbox {
+        &-outer {
+            background-color: rgba(56, 56, 56, 0.582);
+            background-image: url("https://www.pyramidinternational.com/assets/img/products/WDC93140");
+            width: 100%;
+            height: 10.7rem;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            box-shadow: rgb(48, 48, 48) 0rem 0 5px 2px;
+            transition: .5s all;
+            padding: 1.5rem .25rem;
+            &:hover {
+                cursor: pointer;
+            }
+        }
+        &-inner {
+            background-color: rgba(58, 58, 58, 0.822);
+            height: 100%;
+            width: 90%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border: 1rem rgba(0, 0, 0, 0.5) solid;
+        }
+        &-outer2 {
+            background-color: rgba(56, 56, 56, 0.582);
+            background-image: url("https://www.pyramidinternational.com/assets/img/products/WDC93140");
+            width: auto;
+            height: auto;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            box-shadow: rgb(48, 48, 48) 0rem 0 5px 2px;
+            transition: .5s all;
+            padding: 1.5rem .25rem;
+            &:hover {
+                cursor: pointer;
+            }
+        }
+        &-inner2 {
+            background-color: rgba(255, 255, 255, 0.925);
+            height: 100%;
+            width: 90%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border: 1rem rgba(0, 0, 0, 0.5) solid;
+        }
+        &-title {
+            color: white;
+            font-weight: bolder;
+            font-size: 5rem;
+        }
+        &-b1 {
+            font-weight: bold;
+            color: white;
+            font-size: 1.5rem;  
+            background-color: rgba(0, 0, 0, 0.404);
+            text-align: center;
+            width: 100%;
+            
+        }
+    }
+        
+    &__carousel {
+        &-top {
+            margin-top: 0rem;
+        }
+        &-title {
+            
+            font-weight: bold;
+            color: white;
+            font-size: 5rem;
+        }
+        &-title-box {
+            position: absolute;
+            z-index: 10;
+            text-align: center;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0.288);
+        }
+    }
+    
+    
+}
+
+@media (max-width: 800px) {
+    .main {
+        &__frontBtns {
+            &-left {
+                margin: auto; 
+                padding: 0;
+            }
+            &-right {
+                margin: auto auto auto auto; 
+                padding: 0;
+            }
+        }
+        &__gridbox {
+            &-title {
+                font-size: 3rem;
+            }
+            &-outer {
+                width: 100%;
+            }
+        }
+         &__carousel-top {
+             display: none;
+         }
+         &__buttons {
+            margin: .2rem;
+            width: 25%;
+            height: 18%;
+            font-weight: bold;
+            &-wrap {
+                display: flex;
+                flex-direction: column;
+                position: absolute;
+                bottom: 1rem;
+                opacity: 80%;
+            }
+        }
+    }
+}
