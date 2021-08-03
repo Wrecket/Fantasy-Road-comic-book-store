@@ -2,6 +2,8 @@ shopCount = 0;
 var max = 27;
 var min = 0;
 var bookTotal = 0;
+var minvalue = 0;
+var maxvalue = 999999999;
 
 function randomizer() {
     var banner = $(".header__banner-img");
@@ -256,14 +258,18 @@ $("body").on("click", ".comic__nav-buttons-reset", function() {
     age = "";
     search = "";
     pubfilt = "";
+    $(".filter__min").empty();
+    $(".filter__max").empty();
+    $(".filter__age").empty();
+    $(".filter__publisher").empty();
+    $(".filter__letter").empty();
+    minvalue = 0;
+    maxvalue = 999999999;
     $(".comic__nav-buttons-age").removeClass("current-age");
     $(".comic__nav-buttons").removeClass("current");
     $(".comic__nav-buttons-pub").removeClass("current-pub");
     max = 27;
-    update()
-    Loadmore()
-    
-    
+    update() 
 });
 
 $("body").on("click", ".comic__nav-buttons", function() {
@@ -273,7 +279,10 @@ $("body").on("click", ".comic__nav-buttons", function() {
     loadMore()
     update()
     $(this).addClass("current");
-
+    $(".filter__letter").empty()
+    $(".filter__letter").append(`
+        <button class="btn btn-warning show-letter mob-show-filter-btns">Letter: <span style="font-weight: bold">${search.toUpperCase()}</span> <span class="filter-exit">x</span></button>
+    `)
 
 })
 
@@ -281,22 +290,109 @@ $("body").on("click", ".comic__nav-buttons-pub", function() {
     $(".comic__nav-buttons-pub").removeClass("current-pub");
     $(".comic__nav-buttons").removeClass("current");
     pubfilt = this.id.toLowerCase();
-    search = ""
     update();
     $(this).addClass("current-pub");
     max = bookTotal;
     loadMore()
+    $(".filter__publisher").empty()
+    $(".filter__publisher").append(`
+        <button class="btn btn-warning show-pub mob-show-filter-btns">Publisher: <span style="font-weight: bold">${pubfilt}</span> <span class="filter-exit">x</span></button>
+    `)
+})
+
+$("body").on("click", ".comic__nav-buttons-max", function() {
+    $(".comic__nav-buttons-max").removeClass("current-max");
+    $(".comic__nav-buttons").removeClass("current");
+    maxvalueNonInt = this.id.toLowerCase();
+    maxvalue = parseFloat(this.id.substring(1));
+    update();
+    $(this).addClass("current-max");
+    max = bookTotal;
+    loadMore()
+    $(".filter__max").empty()
+    $(".filter__max").append(`
+        <button class="btn btn-warning show-max mob-show-filter-btns">Max: <span style="font-weight: bold">${maxvalueNonInt}</span> <span class="filter-exit">x</span></button>
+    `)
+})
+
+$("body").on("click", ".comic__nav-buttons-min", function() {
+    $(".comic__nav-buttons-min").removeClass("current-min");
+    $(".comic__nav-buttons").removeClass("current");
+    minvalueNonInt = this.id.toLowerCase();
+    minvalue = parseFloat(this.id.substring(1));
+    update();
+    $(this).addClass("current-min");
+    max = bookTotal;
+    loadMore()
+    $(".filter__min").empty()
+    $(".filter__min").append(`
+        <button class="btn btn-warning show-min mob-show-filter-btns">Min: <span style="font-weight: bold">${minvalueNonInt}</span> <span class="filter-exit">x</span></button>
+    `)
 })
 
 $("body").on("click", ".comic__nav-buttons-age", function() {
     $(".comic__nav-buttons-age").removeClass("current-age");
     $(".comic__nav-buttons").removeClass("current");
     age = this.id.toLowerCase();
-    search = ""
     max = bookTotal;
     loadMore()
     update();
     $(this).addClass("current-age");
+    $(".filter__age").empty()
+    $(".filter__age").append(`
+        <button class="btn btn-warning show-age mob-show-filter-btns">Age:<span style="font-weight: bold"> ${age} </span><span class="filter-exit">x</span></button>
+    `)
+})
+
+$("body").on("click", ".show-age", function() {
+    $(".comic__nav-buttons-age").removeClass("current-age");
+    $(".comic__nav-buttons").removeClass("current");
+    age = ""
+
+    loadMore()
+    update();
+    $(".filter__age").empty()
+    $(".filter__age").append(``)
+})
+$("body").on("click", ".show-pub", function() {
+    $(".comic__nav-buttons-pub").removeClass("current-pub");
+    $(".comic__nav-buttons").removeClass("current");
+    pubfilt = ""
+
+    loadMore()
+    update();
+    $(".filter__publisher").empty()
+    $(".filter__publisher").append(``)
+})
+$("body").on("click", ".show-min", function() {
+    $(".comic__nav-buttons-min").removeClass("current-min");
+    $(".comic__nav-buttons").removeClass("current");
+    minvalue = "0"
+
+    loadMore()
+    update();
+    $(".filter__min").empty()
+    $(".filter__min").append(``)
+})
+$("body").on("click", ".show-max", function() {
+    $(".comic__nav-buttons-max").removeClass("current-max");
+    $(".comic__nav-buttons").removeClass("current");
+    maxvalue = "999999999"
+
+    loadMore()
+    update();
+    $(".filter__max").empty()
+    $(".filter__max").append(``)
+})
+$("body").on("click", ".show-letter", function() {
+    $(".comic__nav-buttons-letter").removeClass("current-letter");
+    $(".comic__nav-buttons").removeClass("current");
+    search = ""
+
+    loadMore()
+    update();
+    $(".filter__letter").empty()
+    $(".filter__letter").append(``)
 })
 
 $("body").on("click", ".comic__nav-buttons-show-box", function() {
@@ -308,6 +404,9 @@ $("body").on("click", ".comic__nav-buttons-show-box", function() {
         $(text).val("Show Filters");
     }
 })
+
+
+
 
 function loadMore() {
     var list = $("#comic__modern-list");
@@ -329,8 +428,10 @@ $("body").on("click", ".comic__loadMoreBtn", function() {
 
 //comic nav button render and function
 var alph = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"]
-var pub = ["Marvel", "DC", "Vertigo", "Wildstorm", "Image", "Avatar", "Dynamte", "Icon", "MAX", "Dark Horse"]
+var pub = ["Marvel", "DC", "Vertigo", "Wildstorm", "Image", "Avatar", "Dynamite", "Icon", "MAX", "Dark Horse", "Other"]
 var ages = ["Modern", "Bronze", "Silver", "Gold"]
+var maxvalues = ["£1", "£5", "£10", "£25", "£50", "£100", "£1000"]
+var minvalues = ["£1", "£5", "£10", "£25", "£50", "£100", "£1000"]
 
 $.each(ages, function(index, value) {
     var list = $(".comic__nav-buttons-age-box");
@@ -348,6 +449,18 @@ $.each(alph, function(index, value) {
     var list = $(".comic__nav-buttons-box");
         list.append(`
             <button id="${value}" class="btn btn-warning comic__nav-buttons">${value.toUpperCase()}</button>
+            `)   
+});
+$.each(maxvalues, function(index, value) {
+    var list = $(".comic__nav-buttons-max-box");
+        list.append(`
+            <button id="${value}" class="btn btn-warning comic__nav-buttons-max">${value.toUpperCase()}</button>
+            `)   
+});
+$.each(minvalues, function(index, value) {
+    var list = $(".comic__nav-buttons-min-box");
+        list.append(`
+            <button id="${value}" class="btn btn-warning comic__nav-buttons-min">${value.toUpperCase()}</button>
             `)   
 });
 
@@ -372,6 +485,7 @@ function update() {
             var publisher = comic.publisher.toLowerCase();
             var issue = comic.issue.toLowerCase();
             var name = comic.series.toLowerCase();
+            var price = parseFloat(comic.price);
             var currentObject = comic;
             // var type = comic.type.toLowerCase()
             var year = comic.year; 
@@ -394,58 +508,73 @@ function update() {
     }
     bookTotal = inventory.length;
 if (i >= min && i <= max) {
-    if (age == '') {
-        if (pubfilt == '') {
-            if (search == '') {
-                template(currentObject)
-            } else if (search.includes(publisher) 
-            || search.includes(issue) 
-            || name.startsWith(search)) {
-               template(currentObject)
-            }
-                
-        } else if (pubfilt) {
-            if (publisher == pubfilt) {
-                if (search == "") {
+    if (price > minvalue && price < maxvalue) {
+        if (age == '') {
+            if (pubfilt == '') {
+                if (search == '') {
                     template(currentObject)
+                } else if (search.includes(publisher) 
+                || search.includes(issue) 
+                || name.startsWith(search)) {
+                   template(currentObject)
+                }
+                    
+            } else if (pubfilt) {
+                if (pubfilt == "other") {
+                    if (publisher != "marvel" && publisher != "dc" && publisher != "vertigo" && publisher != "wildstorm" && publisher != "image" && publisher != "avatar" && publisher != "dynamite" && publisher != "icon" && publisher != "max" && publisher != "dark horse") {
+                        if (search == "") {
+                            template(currentObject)
+                        } else if (search.includes(publisher) && publisher == pubfilt
+                        || search.includes(issue) && publisher == pubfilt
+                        || name.startsWith(search) && publisher == pubfilt) {
+                           template(currentObject)
+                
+                        } 
+                    }
+                } else if (publisher == pubfilt) {
+                        if (search == "") {
+                            template(currentObject)
+                        } else if (search.includes(publisher) && publisher == pubfilt
+                        || search.includes(issue) && publisher == pubfilt
+                        || name.startsWith(search) && publisher == pubfilt) {
+                           template(currentObject)            
+                        } 
+    
+                    
+                    
+                }
+            }  
+            
+        } else if (age) {
+            if (type == age) {
+                if (pubfilt == "") {
+                    if (search == "") {
+                        template(currentObject)
                 } else if (search.includes(publisher) && publisher == pubfilt
                 || search.includes(issue) && publisher == pubfilt
                 || name.startsWith(search) && publisher == pubfilt) {
                    template(currentObject)
         
-                } 
-                
-            }
-        }  
-        
-    } else if (age) {
-        if (type == age) {
-            if (pubfilt == "") {
-                if (search == "") {
-                    template(currentObject)
-            } else if (search.includes(publisher) && publisher == pubfilt
-            || search.includes(issue) && publisher == pubfilt
-            || name.startsWith(search) && publisher == pubfilt) {
-               template(currentObject)
-    
-            }
-            } else if (pubfilt) {
-                if (publisher == pubfilt) {
-                    if (search == "") {
-                        template(currentObject)
-                    } else if (search.includes(publisher) && publisher == pubfilt
-                    || search.includes(issue) && publisher == pubfilt
-                    || name.startsWith(search) && publisher == pubfilt) {
-                       template(currentObject)
-            
-                    }
-                    
                 }
-            }
-            
-    } 
+                } else if (pubfilt) {
+                    if (publisher == pubfilt) {
+                        if (search == "") {
+                            template(currentObject)
+                        } else if (search.includes(publisher) && publisher == pubfilt
+                        || search.includes(issue) && publisher == pubfilt
+                        || name.startsWith(search) && publisher == pubfilt) {
+                           template(currentObject)
+                
+                        }
+                        
+                    }
+                }
+                
+        } 
+        
+    }
+    }
     
-}
 }
     
     
@@ -459,6 +588,27 @@ loadMore()
 
     
 }
+
+$("#submitEmail").on("click", function(e) {
+    e.preventDefault();
+    var email = "customerservice@fantasyroad.co.uk";
+    var subject = "Fantasy Road Contact";
+    var message = $("#message").val();
+    var name = $("#name").val();
+    var number = $("#number").val();
+    window.location = 'mailto:' + email + '?subject=' + subject + '&body=' + message + " " + name + " " + number;
+})
+
+$(function () {
+    $('#emailLink').on('click', function (event) {
+        event.preventDefault();
+      alert("Huh");
+      var email = 'test@theearth.com';
+      var subject = 'Circle Around';
+      var emailBody = 'Some blah';
+      window.location = 'mailto:' + email + '?subject=' + subject + '&body=' +   emailBody;
+    });
+  });
 
 function getbooks() {
     $.ajax({

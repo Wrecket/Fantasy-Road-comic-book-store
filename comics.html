@@ -19,14 +19,13 @@
 </head>
 <body>
     <header class="header">
-      <div class="1"></div>
-      <div class="1"></div> <div class="1"></div> 
+        
         <div class="header__banner">
           <img src="img/banner.jpg" alt="Fantasy road banner - Fantasy Road Comic book store, pressing & cleaning services, CGC submission middleman" width="100%" class="header__banner-img image-responsive">
         </div>
         <nav class="header__nav">
           <nav class="navbar navbar-expand-lg navbar-dark bg-dark shopnav">
-            <a href="/index.html"><div class="header__navbar-logo-box">
+            <a href="/index.html"><div class="mob-hide header__navbar-logo-box">
               <img src="/img/Fantasy Road logo white - small no text - comic book pressing, cleaning, sales.png" alt="" class="img-fluid header__navabar-logo">
             </div></a>
               <div class="container-fluid comic__mob-reset">
@@ -48,6 +47,9 @@
                     </li>
                     <li class="nav-item">
                       <a class="nav-link" aria-current="page" href="/comic-book-pressing.html">Services</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" aria-current="page" href="/contact-fantasy-road-comic-book-store.html">Contact</a>
                     </li>
                     <!-- <li class="nav-item dropdown">
                       <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -86,6 +88,30 @@
                       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item mob-minus-marg dropdown" style="position: static" >
                           <a class="nav-link dropdown-toggle override comic__color-black" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Max
+                          </a>
+                          <div class="dropdown-menu comic__nav-buttons-max-box" aria-labelledby="navbarDropdown">
+                            
+                          </div>
+                        </li>
+                      </ul>
+                    </button>
+                    <button class="btn btn-warning  navbar-collapse comic__mob-btn" id="navbarSupportedContent" style="margin:.5rem;">
+                      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item mob-minus-marg dropdown" style="position: static" >
+                          <a class="nav-link dropdown-toggle override comic__color-black" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Min
+                          </a>
+                          <div class="dropdown-menu comic__nav-buttons-min-box" aria-labelledby="navbarDropdown">
+                            
+                          </div>
+                        </li>
+                      </ul>
+                    </button>
+                    <button class="btn btn-warning  navbar-collapse comic__mob-btn" id="navbarSupportedContent" style="margin:.5rem;">
+                      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item mob-minus-marg dropdown" style="position: static" >
+                          <a class="nav-link dropdown-toggle override comic__color-black" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Age
                           </a>
                           <div class="dropdown-menu comic__nav-buttons-age-box" aria-labelledby="navbarDropdown">
@@ -94,10 +120,10 @@
                         </li>
                       </ul>
                     </button>
-                    <button class="btn btn-warning  navbar-collapse comic__mob-btn" id="navbarSupportedContent" style="margin:.5rem;">
+                    <button class="btn btn-warning  navbar-collapse comic__mob-btn comic__mob-pub-font" id="navbarSupportedContent" style="margin:.5rem;">
                       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item mob-minus-marg dropdown" style="position: static">
-                          <a class="nav-link dropdown-toggle override comic__color-black" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                          <a class="nav-link dropdown-toggle override comic__color-black comic__mob-pub-font" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Publisher
                           </a>
                           <div class="dropdown-menu comic__nav-buttons-pub-box" aria-labelledby="navbarDropdown">
@@ -120,7 +146,7 @@
                     </button>
                       
                   </div>
-                  <button id="" class="btn btn-danger comic__nav-buttons-reset"><p style="margin-top: -3px;">Reset</p></button>
+                  <button id="" class="btn btn-danger comic__nav-buttons-reset mob-hide"><p style="margin-top: -3px;">Reset</p></button>
                 </div>
                 <form class="d-flex mob-hide" onSubmit="return false;">
                   <input class="form-control me-2 header__searchbar comic__search" type="search" placeholder="Search" aria-label="Search" style="width: 15rem; margin-left: 2rem;">
@@ -160,6 +186,15 @@
             </div>
           </div> -->
           <div class="col-sm-12 " style="padding: 0; position: relative;">
+            <div class="filterSelectbox">
+              <div class="filterSelect" style="display: flex; flex-wrap: wrap;">
+                <div class="filter__max"></div>
+                <div class="filter__min"></div>
+                <div class="filter__age"></div>
+                <div class="filter__publisher"></div>
+                <div class="filter__letter"></div>
+              </div> 
+            </div>
             <div id="comic__modern-list">
                 <!-- <div class="comic__modern-title-box">
                     <h1 class="comic__modern-title">The Comic Book Shop</h1>
@@ -198,7 +233,7 @@
           </div>
           <div class="col-sm-7" style="display:flex; justify-content: flex-end;align-items: flex-end; text-align: right; position: relative;">
             <div class="footer__wrap-right container">
-              <div class="header__navbar-logo-box mob-hide" style="position: absolute; top: 5%; right: 4%; width: 6rem; margin: 1rem 2rem ;">
+              <div class="header__navbar-logo-box" style="position: absolute; top: 5%; right: 4%; width: 6rem; margin: 1rem 2rem ;">
                 <img src="/img/Fantasy Road Logo with text white - Fantasy Road Comic book store, sales, pressing and cleaning services, CGC Submission.png" alt="" class="img-fluid header__navabar-logo">
               </div>
               <h3 class="footer__about footer__about-mob" style="font-size: 1rem;">Trademark Fantasy Road &copy; 2021</h3>
