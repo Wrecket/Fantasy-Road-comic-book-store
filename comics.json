@@ -1,5 +1,28 @@
  [
     {
+        "id" : "marvelchillers-2",
+        "price" : "5.99",
+        "url" : "/",
+        "data-item-description" : "Crossed One Hundred run (32 books)",
+        "data-item-image" : "/thumbnails/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Crossed One Hundred 9.jpg",
+        "data-item-name" : "Crossed One Hundred full run",
+        "year" : "2012",
+        "issue" : "9",
+        "series" : "Crossed One Hundred",
+        "type" : "",
+        "label" : "",
+        "sale-price" : "",
+        "publisher" : "Avatar",
+        "extra" : "",
+        "enlarge" : "/img/Fantasy Road new and preowned comic book sales - pressing and cleaning service at fantasy road - Crossed One Hundred 9.jpeg",
+        "run" : "",
+        "dimensions" : {
+            "weight" : "100"
+        },
+        "stock" : 1,
+        "allowOutOfStockPurchases" : false
+    },  
+    {
         "id" : "crossedonehundred9",
         "price" : "2.99",
         "url" : "/",

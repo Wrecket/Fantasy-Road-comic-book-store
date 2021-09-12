@@ -235,6 +235,54 @@ function updateResults() {
     
 }
 
+$("admin__submit").click(function(){
+    var id = $('.admin__id');
+    var price = $('.admin__price');
+    var url = $('.admin__url');
+    var data1 = $('.admin__data-item-description');
+    var data2 = $('.admin__data-item-name');
+    var year = $('.admin__year');
+    var issue = $('.admin__issue');
+    var series = $('.admin__series');
+    var type = $('.admin__type');
+    var label = $('.admin__label');
+    var saleprice = $('.admin__sale-price');
+    var publisher = $('.admin__publisher');
+    var extra = $('.admin__extra');
+    var run = $('.admin__run');
+    var weight = $('.admin__weight');
+    var stock = $('.admin__stock');
+    var allowOutOfStockPurchases = $('.admin__allowOutOfStockPurchases');
+
+
+    $.post("/comics.json",
+    {
+        "id" : id.val(),
+        "price" : price.val(),
+        "url" : "/",
+        "data-item-description" : data1.val(),
+        "data-item-image" : url.val(),
+        "data-item-name" : data2.val(),
+        "year" : year.val(),
+        "issue" : issue.val(),
+        "series" : series.val(),
+        "type" : type.val(),
+        "label" : label.val(),
+        "sale-price" : saleprice.val(),
+        "publisher" : publisher.val(),
+        "extra" : extra.val(),
+        "run" : run.val(),
+        "dimensions" : {
+            "weight" : weight.val()
+        },
+        "stock" : stock.val(),
+        "allowOutOfStockPurchases" : allowOutOfStockPurchases.val()
+    },
+    function(data, status){
+      alert("Data: " + data + "\nStatus: " + status);
+    });
+  });
+
 $('.comic__search').on("keypress", function(e) { 
     if(e.which == 13) {
         updateResults()
